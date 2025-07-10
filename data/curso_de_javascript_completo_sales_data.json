@@ -1,5 +1,5 @@
 {
-  "nextID": 9,
+  "nextID": 10,
   "data": [
     {
       "id": 1,
@@ -82,6 +82,17 @@
         "newSales": 7,
         "inDays": 6,
         "inHours": 20
+      }
+    },
+    {
+      "id": 9,
+      "titleCourse": "Curso de JavaScript Completo",
+      "salesQuantity": 17869,
+      "timestamp": "7/10/2025, 11:47:34 AM",
+      "salesAmount": {
+        "newSales": 343,
+        "inDays": 359,
+        "inHours": 6
       }
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "nextID": 11,
+  "nextID": 12,
   "data": [
     {
       "id": 1,
@@ -104,6 +104,17 @@
         "newSales": 39,
         "inDays": 6,
         "inHours": 20
+      }
+    },
+    {
+      "id": 11,
+      "titleCourse": "Curso do FIGMA ao código. O design da interface web completo",
+      "salesQuantity": 3659,
+      "timestamp": "7/10/2025, 11:48:34 AM",
+      "salesAmount": {
+        "newSales": 2125,
+        "inDays": 359,
+        "inHours": 6
       }
     }
   ]

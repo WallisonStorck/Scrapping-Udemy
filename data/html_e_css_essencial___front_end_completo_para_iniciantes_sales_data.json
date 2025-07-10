@@ -1,5 +1,5 @@
 {
-  "nextID": 14,
+  "nextID": 16,
   "data": [
     {
       "id": 1,
@@ -136,6 +136,28 @@
         "newSales": 14,
         "inDays": 6,
         "inHours": 20
+      }
+    },
+    {
+      "id": 14,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7544,
+      "timestamp": "7/10/2025, 11:49:01 AM",
+      "salesAmount": {
+        "newSales": 763,
+        "inDays": 359,
+        "inHours": 6
+      }
+    },
+    {
+      "id": 15,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7544,
+      "timestamp": "7/10/2025, 11:49:40 AM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 0
       }
     }
   ]
