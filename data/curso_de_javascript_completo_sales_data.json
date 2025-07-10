@@ -1,0 +1,88 @@
+{
+  "nextID": 9,
+  "data": [
+    {
+      "id": 1,
+      "titleCourse": "Curso de JavaScript Completo",
+      "salesQuantity": 17509,
+      "timestamp": "6/20/2024, 12:13:58 PM"
+    },
+    {
+      "id": 2,
+      "titleCourse": "Curso de JavaScript Completo",
+      "salesQuantity": 17512,
+      "timestamp": "6/26/2024, 4:37:54 AM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 5,
+        "inHours": 16
+      }
+    },
+    {
+      "id": 3,
+      "titleCourse": "Curso de JavaScript Completo",
+      "salesQuantity": 17513,
+      "timestamp": "6/28/2024, 1:45:33 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 2,
+        "inHours": 9
+      }
+    },
+    {
+      "id": 4,
+      "titleCourse": "Curso de JavaScript Completo",
+      "salesQuantity": 17513,
+      "timestamp": "7/2/2024, 5:08:54 AM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 3,
+        "inHours": 15
+      }
+    },
+    {
+      "id": 5,
+      "titleCourse": "Curso de JavaScript Completo",
+      "salesQuantity": 17515,
+      "timestamp": "7/3/2024, 5:58:17 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 1,
+        "inHours": 12
+      }
+    },
+    {
+      "id": 6,
+      "titleCourse": "Curso de JavaScript Completo",
+      "salesQuantity": 17516,
+      "timestamp": "7/5/2024, 6:47:22 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 7,
+      "titleCourse": "Curso de JavaScript Completo",
+      "salesQuantity": 17519,
+      "timestamp": "7/9/2024, 8:55:02 AM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 3,
+        "inHours": 14
+      }
+    },
+    {
+      "id": 8,
+      "titleCourse": "Curso de JavaScript Completo",
+      "salesQuantity": 17526,
+      "timestamp": "7/16/2024, 5:00:55 AM",
+      "salesAmount": {
+        "newSales": 7,
+        "inDays": 6,
+        "inHours": 20
+      }
+    }
+  ]
+}

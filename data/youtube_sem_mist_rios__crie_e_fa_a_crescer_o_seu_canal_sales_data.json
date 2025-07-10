@@ -1,0 +1,110 @@
+{
+  "nextID": 11,
+  "data": [
+    {
+      "id": 1,
+      "titleCourse": "YouTube sem Mistérios: crie e faça crescer o seu canal",
+      "salesQuantity": 2456,
+      "timestamp": "6/15/2024, 11:15:09 AM"
+    },
+    {
+      "id": 2,
+      "titleCourse": "YouTube sem Mistérios: crie e faça crescer o seu canal",
+      "salesQuantity": 2461,
+      "timestamp": "6/20/2024, 4:49:16 AM",
+      "salesAmount": {
+        "newSales": 5,
+        "inDays": 4,
+        "inHours": 17
+      }
+    },
+    {
+      "id": 3,
+      "titleCourse": "YouTube sem Mistérios: crie e faça crescer o seu canal",
+      "salesQuantity": 2462,
+      "timestamp": "6/20/2024, 12:15:06 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 0,
+        "inHours": 7
+      }
+    },
+    {
+      "id": 4,
+      "titleCourse": "YouTube sem Mistérios: crie e faça crescer o seu canal",
+      "salesQuantity": 2463,
+      "timestamp": "6/26/2024, 4:39:11 AM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 5,
+        "inHours": 16
+      }
+    },
+    {
+      "id": 5,
+      "titleCourse": "YouTube sem Mistérios: crie e faça crescer o seu canal",
+      "salesQuantity": 2468,
+      "timestamp": "6/28/2024, 1:46:27 PM",
+      "salesAmount": {
+        "newSales": 5,
+        "inDays": 2,
+        "inHours": 9
+      }
+    },
+    {
+      "id": 6,
+      "titleCourse": "YouTube sem Mistérios: crie e faça crescer o seu canal",
+      "salesQuantity": 2471,
+      "timestamp": "7/2/2024, 5:09:47 AM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 3,
+        "inHours": 15
+      }
+    },
+    {
+      "id": 7,
+      "titleCourse": "YouTube sem Mistérios: crie e faça crescer o seu canal",
+      "salesQuantity": 2474,
+      "timestamp": "7/3/2024, 5:59:11 PM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 1,
+        "inHours": 12
+      }
+    },
+    {
+      "id": 8,
+      "titleCourse": "YouTube sem Mistérios: crie e faça crescer o seu canal",
+      "salesQuantity": 2479,
+      "timestamp": "7/5/2024, 6:48:14 PM",
+      "salesAmount": {
+        "newSales": 5,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 9,
+      "titleCourse": "YouTube sem Mistérios: crie e faça crescer o seu canal",
+      "salesQuantity": 2480,
+      "timestamp": "7/9/2024, 8:55:54 AM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 3,
+        "inHours": 14
+      }
+    },
+    {
+      "id": 10,
+      "titleCourse": "YouTube sem Mistérios: crie e faça crescer o seu canal",
+      "salesQuantity": 2488,
+      "timestamp": "7/16/2024, 5:01:43 AM",
+      "salesAmount": {
+        "newSales": 8,
+        "inDays": 6,
+        "inHours": 20
+      }
+    }
+  ]
+}

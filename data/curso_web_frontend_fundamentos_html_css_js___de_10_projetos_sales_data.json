@@ -1,0 +1,153 @@
+{
+  "nextID": 16,
+  "data": [
+    {
+      "id": 1,
+      "titleCourse": "Curso Web Frontend Fundamentos HTML CSS JS + de 10 Projetos",
+      "salesQuantity": 47219
+    },
+    {
+      "id": 3,
+      "titleCourse": "Curso Web Frontend Fundamentos HTML CSS JS + de 10 Projetos",
+      "salesQuantity": 48085,
+      "timestamp": "6/13/2024, 5:43:46 AM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 4,
+      "titleCourse": "Curso Web Frontend Fundamentos HTML CSS JS + de 10 Projetos",
+      "salesQuantity": 48088,
+      "timestamp": "6/13/2024, 8:05:25 AM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 0,
+        "inHours": 2
+      }
+    },
+    {
+      "id": 5,
+      "titleCourse": "Curso Web Frontend Fundamentos HTML CSS JS + de 10 Projetos",
+      "salesQuantity": 48118,
+      "timestamp": "6/14/2024, 11:12:52 AM",
+      "salesAmount": {
+        "newSales": 30,
+        "inDays": 1,
+        "inHours": 3
+      }
+    },
+    {
+      "id": 6,
+      "titleCourse": "Curso Web Frontend Fundamentos HTML CSS JS + de 10 Projetos",
+      "salesQuantity": 48136,
+      "timestamp": "6/15/2024, 11:14:41 AM",
+      "salesAmount": {
+        "newSales": 18,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 7,
+      "titleCourse": "Curso Web Frontend Fundamentos HTML CSS JS + de 10 Projetos",
+      "salesQuantity": 48231,
+      "timestamp": "6/20/2024, 4:48:49 AM",
+      "salesAmount": {
+        "newSales": 95,
+        "inDays": 4,
+        "inHours": 17
+      }
+    },
+    {
+      "id": 8,
+      "titleCourse": "Curso Web Frontend Fundamentos HTML CSS JS + de 10 Projetos",
+      "salesQuantity": 48233,
+      "timestamp": "6/20/2024, 12:12:20 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 0,
+        "inHours": 7
+      }
+    },
+    {
+      "id": 9,
+      "titleCourse": "Curso Web Frontend Fundamentos HTML CSS JS + de 10 Projetos",
+      "salesQuantity": 48342,
+      "timestamp": "6/26/2024, 4:36:20 AM",
+      "salesAmount": {
+        "newSales": 109,
+        "inDays": 5,
+        "inHours": 16
+      }
+    },
+    {
+      "id": 10,
+      "titleCourse": "Curso Web Frontend Fundamentos HTML CSS JS + de 10 Projetos",
+      "salesQuantity": 48447,
+      "timestamp": "6/28/2024, 1:44:51 PM",
+      "salesAmount": {
+        "newSales": 105,
+        "inDays": 2,
+        "inHours": 9
+      }
+    },
+    {
+      "id": 11,
+      "titleCourse": "Curso Web Frontend Fundamentos HTML CSS JS + de 10 Projetos",
+      "salesQuantity": 48478,
+      "timestamp": "7/2/2024, 5:08:14 AM",
+      "salesAmount": {
+        "newSales": 31,
+        "inDays": 3,
+        "inHours": 15
+      }
+    },
+    {
+      "id": 12,
+      "titleCourse": "Curso Web Frontend Fundamentos HTML CSS JS + de 10 Projetos",
+      "salesQuantity": 48517,
+      "timestamp": "7/3/2024, 5:57:19 PM",
+      "salesAmount": {
+        "newSales": 39,
+        "inDays": 1,
+        "inHours": 12
+      }
+    },
+    {
+      "id": 13,
+      "titleCourse": "Curso Web Frontend Fundamentos HTML CSS JS + de 10 Projetos",
+      "salesQuantity": 48585,
+      "timestamp": "7/5/2024, 6:46:42 PM",
+      "salesAmount": {
+        "newSales": 68,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 14,
+      "titleCourse": "Curso Web Frontend Fundamentos HTML CSS JS + de 10 Projetos",
+      "salesQuantity": 48620,
+      "timestamp": "7/9/2024, 8:54:21 AM",
+      "salesAmount": {
+        "newSales": 35,
+        "inDays": 3,
+        "inHours": 14
+      }
+    },
+    {
+      "id": 15,
+      "titleCourse": "Curso Web Frontend Fundamentos HTML CSS JS + de 10 Projetos",
+      "salesQuantity": 48784,
+      "timestamp": "7/16/2024, 5:00:21 AM",
+      "salesAmount": {
+        "newSales": 164,
+        "inDays": 6,
+        "inHours": 20
+      }
+    }
+  ]
+}

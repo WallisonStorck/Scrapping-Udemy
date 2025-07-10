@@ -1,0 +1,77 @@
+{
+  "nextID": 8,
+  "data": [
+    {
+      "id": 1,
+      "titleCourse": "Curso JAVASCRIPT do Zero ao Avançado + Projetos Reais",
+      "salesQuantity": 273,
+      "timestamp": "6/20/2024, 12:13:43 PM"
+    },
+    {
+      "id": 2,
+      "titleCourse": "Curso JAVASCRIPT do Zero ao Avançado + Projetos Reais",
+      "salesQuantity": 278,
+      "timestamp": "6/26/2024, 4:37:41 AM",
+      "salesAmount": {
+        "newSales": 5,
+        "inDays": 5,
+        "inHours": 16
+      }
+    },
+    {
+      "id": 3,
+      "titleCourse": "Curso JAVASCRIPT do Zero ao Avançado + Projetos Reais",
+      "salesQuantity": 283,
+      "timestamp": "6/28/2024, 1:43:17 PM",
+      "salesAmount": {
+        "newSales": 5,
+        "inDays": 2,
+        "inHours": 9
+      }
+    },
+    {
+      "id": 4,
+      "titleCourse": "Curso JAVASCRIPT do Zero ao Avançado + Projetos Reais",
+      "salesQuantity": 286,
+      "timestamp": "7/2/2024, 5:06:42 AM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 3,
+        "inHours": 15
+      }
+    },
+    {
+      "id": 5,
+      "titleCourse": "Curso JAVASCRIPT do Zero ao Avançado + Projetos Reais",
+      "salesQuantity": 288,
+      "timestamp": "7/3/2024, 5:55:41 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 1,
+        "inHours": 12
+      }
+    },
+    {
+      "id": 6,
+      "titleCourse": "Curso JAVASCRIPT do Zero ao Avançado + Projetos Reais",
+      "salesQuantity": 290,
+      "timestamp": "7/5/2024, 6:45:04 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 7,
+      "titleCourse": "Curso JAVASCRIPT do Zero ao Avançado + Projetos Reais",
+      "salesQuantity": 294,
+      "timestamp": "7/9/2024, 8:52:36 AM",
+      "salesAmount": {
+        "newSales": 4,
+        "inDays": 3,
+        "inHours": 14
+      }
+    }
+  ]
+}

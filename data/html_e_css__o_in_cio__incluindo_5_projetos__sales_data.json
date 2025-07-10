@@ -1,0 +1,142 @@
+{
+  "nextID": 14,
+  "data": [
+    {
+      "id": 1,
+      "titleCourse": "HTML e CSS: O Início (incluindo 5 Projetos)",
+      "salesQuantity": 5345
+    },
+    {
+      "id": 2,
+      "titleCourse": "HTML e CSS: O Início (incluindo 5 Projetos)",
+      "salesQuantity": 5395,
+      "timestamp": "6/13/2024, 8:06:04 AM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 2
+      }
+    },
+    {
+      "id": 3,
+      "titleCourse": "HTML e CSS: O Início (incluindo 5 Projetos)",
+      "salesQuantity": 5397,
+      "timestamp": "6/14/2024, 11:12:25 AM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 1,
+        "inHours": 3
+      }
+    },
+    {
+      "id": 4,
+      "titleCourse": "HTML e CSS: O Início (incluindo 5 Projetos)",
+      "salesQuantity": 5397,
+      "timestamp": "6/15/2024, 11:14:14 AM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 5,
+      "titleCourse": "HTML e CSS: O Início (incluindo 5 Projetos)",
+      "salesQuantity": 5401,
+      "timestamp": "6/20/2024, 4:48:22 AM",
+      "salesAmount": {
+        "newSales": 4,
+        "inDays": 4,
+        "inHours": 17
+      }
+    },
+    {
+      "id": 6,
+      "titleCourse": "HTML e CSS: O Início (incluindo 5 Projetos)",
+      "salesQuantity": 5401,
+      "timestamp": "6/20/2024, 12:11:55 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 7
+      }
+    },
+    {
+      "id": 7,
+      "titleCourse": "HTML e CSS: O Início (incluindo 5 Projetos)",
+      "salesQuantity": 5412,
+      "timestamp": "6/26/2024, 4:35:56 AM",
+      "salesAmount": {
+        "newSales": 11,
+        "inDays": 5,
+        "inHours": 16
+      }
+    },
+    {
+      "id": 8,
+      "titleCourse": "HTML e CSS: O Início (incluindo 5 Projetos)",
+      "salesQuantity": 5419,
+      "timestamp": "6/28/2024, 1:45:06 PM",
+      "salesAmount": {
+        "newSales": 7,
+        "inDays": 2,
+        "inHours": 9
+      }
+    },
+    {
+      "id": 9,
+      "titleCourse": "HTML e CSS: O Início (incluindo 5 Projetos)",
+      "salesQuantity": 5420,
+      "timestamp": "7/2/2024, 5:08:26 AM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 3,
+        "inHours": 15
+      }
+    },
+    {
+      "id": 10,
+      "titleCourse": "HTML e CSS: O Início (incluindo 5 Projetos)",
+      "salesQuantity": 5422,
+      "timestamp": "7/3/2024, 5:57:33 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 1,
+        "inHours": 12
+      }
+    },
+    {
+      "id": 11,
+      "titleCourse": "HTML e CSS: O Início (incluindo 5 Projetos)",
+      "salesQuantity": 5422,
+      "timestamp": "7/5/2024, 6:46:55 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 12,
+      "titleCourse": "HTML e CSS: O Início (incluindo 5 Projetos)",
+      "salesQuantity": 5421,
+      "timestamp": "7/9/2024, 8:54:35 AM",
+      "salesAmount": {
+        "newSales": -1,
+        "inDays": 3,
+        "inHours": 14
+      }
+    },
+    {
+      "id": 13,
+      "titleCourse": "HTML e CSS: O Início (incluindo 5 Projetos)",
+      "salesQuantity": 5430,
+      "timestamp": "7/16/2024, 5:00:32 AM",
+      "salesAmount": {
+        "newSales": 9,
+        "inDays": 6,
+        "inHours": 20
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "nextID": 9,
+  "data": [
+    {
+      "id": 1,
+      "titleCourse": "Curso React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!",
+      "salesQuantity": 40429,
+      "timestamp": "6/20/2024, 12:14:44 PM"
+    },
+    {
+      "id": 2,
+      "titleCourse": "Curso React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!",
+      "salesQuantity": 40444,
+      "timestamp": "6/26/2024, 4:38:45 AM",
+      "salesAmount": {
+        "newSales": 15,
+        "inDays": 5,
+        "inHours": 16
+      }
+    },
+    {
+      "id": 3,
+      "titleCourse": "Curso React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!",
+      "salesQuantity": 40453,
+      "timestamp": "6/28/2024, 1:46:13 PM",
+      "salesAmount": {
+        "newSales": 9,
+        "inDays": 2,
+        "inHours": 9
+      }
+    },
+    {
+      "id": 4,
+      "titleCourse": "Curso React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!",
+      "salesQuantity": 40458,
+      "timestamp": "7/2/2024, 5:09:34 AM",
+      "salesAmount": {
+        "newSales": 5,
+        "inDays": 3,
+        "inHours": 15
+      }
+    },
+    {
+      "id": 5,
+      "titleCourse": "Curso React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!",
+      "salesQuantity": 40460,
+      "timestamp": "7/3/2024, 5:58:58 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 1,
+        "inHours": 12
+      }
+    },
+    {
+      "id": 6,
+      "titleCourse": "Curso React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!",
+      "salesQuantity": 40466,
+      "timestamp": "7/5/2024, 6:48:03 PM",
+      "salesAmount": {
+        "newSales": 6,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 7,
+      "titleCourse": "Curso React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!",
+      "salesQuantity": 40470,
+      "timestamp": "7/9/2024, 8:55:40 AM",
+      "salesAmount": {
+        "newSales": 4,
+        "inDays": 3,
+        "inHours": 14
+      }
+    },
+    {
+      "id": 8,
+      "titleCourse": "Curso React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!",
+      "salesQuantity": 40501,
+      "timestamp": "7/16/2024, 5:01:32 AM",
+      "salesAmount": {
+        "newSales": 31,
+        "inDays": 6,
+        "inHours": 20
+      }
+    }
+  ]
+}

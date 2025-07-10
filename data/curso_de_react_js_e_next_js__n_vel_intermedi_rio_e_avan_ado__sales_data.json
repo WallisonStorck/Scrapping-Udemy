@@ -1,0 +1,88 @@
+{
+  "nextID": 9,
+  "data": [
+    {
+      "id": 1,
+      "titleCourse": "Curso de React.Js e Next.Js (nível intermediário e avançado)",
+      "salesQuantity": 22329,
+      "timestamp": "6/20/2024, 12:14:21 PM"
+    },
+    {
+      "id": 2,
+      "titleCourse": "Curso de React.Js e Next.Js (nível intermediário e avançado)",
+      "salesQuantity": 22382,
+      "timestamp": "6/26/2024, 4:38:20 AM",
+      "salesAmount": {
+        "newSales": 53,
+        "inDays": 5,
+        "inHours": 16
+      }
+    },
+    {
+      "id": 3,
+      "titleCourse": "Curso de React.Js e Next.Js (nível intermediário e avançado)",
+      "salesQuantity": 22428,
+      "timestamp": "6/28/2024, 1:43:45 PM",
+      "salesAmount": {
+        "newSales": 46,
+        "inDays": 2,
+        "inHours": 9
+      }
+    },
+    {
+      "id": 4,
+      "titleCourse": "Curso de React.Js e Next.Js (nível intermediário e avançado)",
+      "salesQuantity": 22444,
+      "timestamp": "7/2/2024, 5:07:10 AM",
+      "salesAmount": {
+        "newSales": 16,
+        "inDays": 3,
+        "inHours": 15
+      }
+    },
+    {
+      "id": 5,
+      "titleCourse": "Curso de React.Js e Next.Js (nível intermediário e avançado)",
+      "salesQuantity": 22464,
+      "timestamp": "7/3/2024, 5:56:13 PM",
+      "salesAmount": {
+        "newSales": 20,
+        "inDays": 1,
+        "inHours": 12
+      }
+    },
+    {
+      "id": 6,
+      "titleCourse": "Curso de React.Js e Next.Js (nível intermediário e avançado)",
+      "salesQuantity": 22507,
+      "timestamp": "7/5/2024, 6:45:36 PM",
+      "salesAmount": {
+        "newSales": 43,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 7,
+      "titleCourse": "Curso de React.Js e Next.Js (nível intermediário e avançado)",
+      "salesQuantity": 22531,
+      "timestamp": "7/9/2024, 8:53:13 AM",
+      "salesAmount": {
+        "newSales": 24,
+        "inDays": 3,
+        "inHours": 14
+      }
+    },
+    {
+      "id": 8,
+      "titleCourse": "Curso de React.Js e Next.Js (nível intermediário e avançado)",
+      "salesQuantity": 22621,
+      "timestamp": "7/16/2024, 4:59:15 AM",
+      "salesAmount": {
+        "newSales": 90,
+        "inDays": 6,
+        "inHours": 20
+      }
+    }
+  ]
+}

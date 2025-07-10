@@ -1,0 +1,110 @@
+{
+  "nextID": 11,
+  "data": [
+    {
+      "id": 1,
+      "titleCourse": "Como criar, monetizar e otimizar um canal no YouTube do ZERO",
+      "salesQuantity": 223,
+      "timestamp": "6/15/2024, 11:15:22 AM"
+    },
+    {
+      "id": 2,
+      "titleCourse": "Como criar, monetizar e otimizar um canal no YouTube do ZERO",
+      "salesQuantity": 225,
+      "timestamp": "6/20/2024, 4:49:30 AM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 4,
+        "inHours": 17
+      }
+    },
+    {
+      "id": 3,
+      "titleCourse": "Como criar, monetizar e otimizar um canal no YouTube do ZERO",
+      "salesQuantity": 225,
+      "timestamp": "6/20/2024, 12:15:19 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 7
+      }
+    },
+    {
+      "id": 4,
+      "titleCourse": "Como criar, monetizar e otimizar um canal no YouTube do ZERO",
+      "salesQuantity": 225,
+      "timestamp": "6/26/2024, 4:39:26 AM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 5,
+        "inHours": 16
+      }
+    },
+    {
+      "id": 5,
+      "titleCourse": "Como criar, monetizar e otimizar um canal no YouTube do ZERO",
+      "salesQuantity": 227,
+      "timestamp": "6/28/2024, 1:42:11 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 2,
+        "inHours": 9
+      }
+    },
+    {
+      "id": 6,
+      "titleCourse": "Como criar, monetizar e otimizar um canal no YouTube do ZERO",
+      "salesQuantity": 227,
+      "timestamp": "7/2/2024, 5:05:36 AM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 3,
+        "inHours": 15
+      }
+    },
+    {
+      "id": 7,
+      "titleCourse": "Como criar, monetizar e otimizar um canal no YouTube do ZERO",
+      "salesQuantity": 228,
+      "timestamp": "7/3/2024, 5:54:24 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 12
+      }
+    },
+    {
+      "id": 8,
+      "titleCourse": "Como criar, monetizar e otimizar um canal no YouTube do ZERO",
+      "salesQuantity": 228,
+      "timestamp": "7/5/2024, 6:43:58 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 9,
+      "titleCourse": "Como criar, monetizar e otimizar um canal no YouTube do ZERO",
+      "salesQuantity": 229,
+      "timestamp": "7/9/2024, 8:51:30 AM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 3,
+        "inHours": 14
+      }
+    },
+    {
+      "id": 10,
+      "titleCourse": "Como criar, monetizar e otimizar um canal no YouTube do ZERO",
+      "salesQuantity": 231,
+      "timestamp": "7/16/2024, 4:57:48 AM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 6,
+        "inHours": 20
+      }
+    }
+  ]
+}

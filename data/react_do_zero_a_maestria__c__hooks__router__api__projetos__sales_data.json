@@ -1,0 +1,88 @@
+{
+  "nextID": 9,
+  "data": [
+    {
+      "id": 1,
+      "titleCourse": "React do Zero a Maestria (c/ hooks, router, API, Projetos)",
+      "salesQuantity": 18021,
+      "timestamp": "6/20/2024, 12:14:10 PM"
+    },
+    {
+      "id": 2,
+      "titleCourse": "React do Zero a Maestria (c/ hooks, router, API, Projetos)",
+      "salesQuantity": 18086,
+      "timestamp": "6/26/2024, 4:38:08 AM",
+      "salesAmount": {
+        "newSales": 65,
+        "inDays": 5,
+        "inHours": 16
+      }
+    },
+    {
+      "id": 3,
+      "titleCourse": "React do Zero a Maestria (c/ hooks, router, API, Projetos)",
+      "salesQuantity": 18146,
+      "timestamp": "6/28/2024, 1:45:59 PM",
+      "salesAmount": {
+        "newSales": 60,
+        "inDays": 2,
+        "inHours": 9
+      }
+    },
+    {
+      "id": 4,
+      "titleCourse": "React do Zero a Maestria (c/ hooks, router, API, Projetos)",
+      "salesQuantity": 18171,
+      "timestamp": "7/2/2024, 5:09:20 AM",
+      "salesAmount": {
+        "newSales": 25,
+        "inDays": 3,
+        "inHours": 15
+      }
+    },
+    {
+      "id": 5,
+      "titleCourse": "React do Zero a Maestria (c/ hooks, router, API, Projetos)",
+      "salesQuantity": 18192,
+      "timestamp": "7/3/2024, 5:58:43 PM",
+      "salesAmount": {
+        "newSales": 21,
+        "inDays": 1,
+        "inHours": 12
+      }
+    },
+    {
+      "id": 6,
+      "titleCourse": "React do Zero a Maestria (c/ hooks, router, API, Projetos)",
+      "salesQuantity": 18236,
+      "timestamp": "7/5/2024, 6:47:49 PM",
+      "salesAmount": {
+        "newSales": 44,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 7,
+      "titleCourse": "React do Zero a Maestria (c/ hooks, router, API, Projetos)",
+      "salesQuantity": 18260,
+      "timestamp": "7/9/2024, 8:55:28 AM",
+      "salesAmount": {
+        "newSales": 24,
+        "inDays": 3,
+        "inHours": 14
+      }
+    },
+    {
+      "id": 8,
+      "titleCourse": "React do Zero a Maestria (c/ hooks, router, API, Projetos)",
+      "salesQuantity": 18351,
+      "timestamp": "7/16/2024, 5:01:21 AM",
+      "salesAmount": {
+        "newSales": 91,
+        "inDays": 6,
+        "inHours": 20
+      }
+    }
+  ]
+}

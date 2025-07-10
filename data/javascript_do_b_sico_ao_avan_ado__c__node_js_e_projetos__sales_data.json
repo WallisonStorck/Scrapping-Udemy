@@ -1,0 +1,88 @@
+{
+  "nextID": 9,
+  "data": [
+    {
+      "id": 1,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 18734,
+      "timestamp": "6/20/2024, 12:13:15 PM"
+    },
+    {
+      "id": 2,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 18770,
+      "timestamp": "6/26/2024, 4:37:12 AM",
+      "salesAmount": {
+        "newSales": 36,
+        "inDays": 5,
+        "inHours": 16
+      }
+    },
+    {
+      "id": 3,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 18793,
+      "timestamp": "6/28/2024, 1:45:46 PM",
+      "salesAmount": {
+        "newSales": 23,
+        "inDays": 2,
+        "inHours": 9
+      }
+    },
+    {
+      "id": 4,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 18810,
+      "timestamp": "7/2/2024, 5:09:06 AM",
+      "salesAmount": {
+        "newSales": 17,
+        "inDays": 3,
+        "inHours": 15
+      }
+    },
+    {
+      "id": 5,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 18824,
+      "timestamp": "7/3/2024, 5:58:31 PM",
+      "salesAmount": {
+        "newSales": 14,
+        "inDays": 1,
+        "inHours": 12
+      }
+    },
+    {
+      "id": 6,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 18848,
+      "timestamp": "7/5/2024, 6:47:35 PM",
+      "salesAmount": {
+        "newSales": 24,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 7,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 18864,
+      "timestamp": "7/9/2024, 8:55:14 AM",
+      "salesAmount": {
+        "newSales": 16,
+        "inDays": 3,
+        "inHours": 14
+      }
+    },
+    {
+      "id": 8,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 18935,
+      "timestamp": "7/16/2024, 5:01:08 AM",
+      "salesAmount": {
+        "newSales": 71,
+        "inDays": 6,
+        "inHours": 20
+      }
+    }
+  ]
+}
