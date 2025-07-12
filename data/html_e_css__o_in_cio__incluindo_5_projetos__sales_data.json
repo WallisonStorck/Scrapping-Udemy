@@ -1,5 +1,5 @@
 {
-  "nextID": 15,
+  "nextID": 16,
   "data": [
     {
       "id": 1,
@@ -147,6 +147,17 @@
         "newSales": 415,
         "inDays": 359,
         "inHours": 6
+      }
+    },
+    {
+      "id": 15,
+      "titleCourse": "HTML e CSS: O Início (incluindo 5 Projetos)",
+      "salesQuantity": 5846,
+      "timestamp": "7/12/2025, 10:40:38 AM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 22
       }
     }
   ]

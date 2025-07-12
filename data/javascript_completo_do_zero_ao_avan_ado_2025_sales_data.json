@@ -1,11 +1,22 @@
 {
-  "nextID": 2,
+  "nextID": 3,
   "data": [
     {
       "id": 1,
       "titleCourse": "JAVASCRIPT Completo do Zero ao Avançado 2025",
       "salesQuantity": 897,
       "timestamp": "7/10/2025, 11:47:10 AM"
+    },
+    {
+      "id": 2,
+      "titleCourse": "JAVASCRIPT Completo do Zero ao Avançado 2025",
+      "salesQuantity": 900,
+      "timestamp": "7/12/2025, 10:27:07 AM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 1,
+        "inHours": 22
+      }
     }
   ]
 }

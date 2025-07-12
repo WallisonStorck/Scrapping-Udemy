@@ -1,11 +1,22 @@
 {
-  "nextID": 2,
+  "nextID": 3,
   "data": [
     {
       "id": 1,
       "titleCourse": "Python Completo do Zero ao Avançado + Projetos Reais 2025",
       "salesQuantity": 38877,
       "timestamp": "7/10/2025, 11:50:12 AM"
+    },
+    {
+      "id": 2,
+      "titleCourse": "Python Completo do Zero ao Avançado + Projetos Reais 2025",
+      "salesQuantity": 38916,
+      "timestamp": "7/12/2025, 10:42:24 AM",
+      "salesAmount": {
+        "newSales": 39,
+        "inDays": 1,
+        "inHours": 22
+      }
     }
   ]
 }

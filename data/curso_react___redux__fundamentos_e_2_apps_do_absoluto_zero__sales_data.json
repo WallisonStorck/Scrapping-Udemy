@@ -1,5 +1,5 @@
 {
-  "nextID": 10,
+  "nextID": 11,
   "data": [
     {
       "id": 1,
@@ -93,6 +93,17 @@
         "newSales": 854,
         "inDays": 359,
         "inHours": 6
+      }
+    },
+    {
+      "id": 10,
+      "titleCourse": "Curso React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!",
+      "salesQuantity": 41358,
+      "timestamp": "7/12/2025, 10:39:53 AM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 1,
+        "inHours": 22
       }
     }
   ]

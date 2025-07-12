@@ -1,11 +1,22 @@
 {
-  "nextID": 2,
+  "nextID": 3,
   "data": [
     {
       "id": 1,
       "titleCourse": "PYTHON 2025: Curso de Python Básico ao Avançado (+PROJETOS)",
       "salesQuantity": 762,
       "timestamp": "7/10/2025, 11:50:35 AM"
+    },
+    {
+      "id": 2,
+      "titleCourse": "PYTHON 2025: Curso de Python Básico ao Avançado (+PROJETOS)",
+      "salesQuantity": 764,
+      "timestamp": "7/12/2025, 10:42:49 AM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 1,
+        "inHours": 22
+      }
     }
   ]
 }

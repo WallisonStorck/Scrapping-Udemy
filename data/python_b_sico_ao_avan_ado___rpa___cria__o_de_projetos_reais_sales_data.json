@@ -1,11 +1,22 @@
 {
-  "nextID": 2,
+  "nextID": 3,
   "data": [
     {
       "id": 1,
       "titleCourse": "Python Básico ao Avançado + RPA + Criação de Projetos Reais",
       "salesQuantity": 12289,
       "timestamp": "7/10/2025, 11:50:28 AM"
+    },
+    {
+      "id": 2,
+      "titleCourse": "Python Básico ao Avançado + RPA + Criação de Projetos Reais",
+      "salesQuantity": 12309,
+      "timestamp": "7/12/2025, 10:42:41 AM",
+      "salesAmount": {
+        "newSales": 20,
+        "inDays": 1,
+        "inHours": 22
+      }
     }
   ]
 }

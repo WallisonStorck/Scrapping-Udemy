@@ -1,6 +1,6 @@
 import fs from "fs";
 import path from "path";
-import { saveExecutionLog } from "./logger.js";
+import { logger } from "./logger.js";
 
 export default async function saveSalesData(data) {
   const sanitizedTitle = data.titleCurrent
@@ -32,18 +32,20 @@ export default async function saveSalesData(data) {
 
         fs.writeFile(filePath, JSON.stringify(jsonObject, null, 2), (err) => {
           if (err) {
-            console.error("Erro ao escrever o arquivo:", err);
+            logger(
+              `Erro ao buscar os seletores: ${JSON.stringify(err, null, 2)}`
+            );
             return;
           }
-          console.log(`Arquivo '${filePath}' criado com sucesso!`);
-          console.log("---------------------------------------------");
+          logger(`Arquivo '${filePath}' criado com sucesso!`);
+          logger("---------------------------------------------");
         });
       } else {
-        console.error("Erro ao ler o arquivo:", err);
+        logger(`Erro ao ler o arquivo: ${JSON.stringify(err, null, 2)}`);
         return;
       }
     } else {
-      // Parseando o arquivo e adicionando novos dados
+      // Parsseando o arquivo e adicionando novos dados
       let salesArray = JSON.parse(jsonData);
 
       const nextID = salesArray.nextID;
@@ -77,21 +79,22 @@ export default async function saveSalesData(data) {
       salesArray.nextID++;
       jsonObject = salesArray;
 
-      console.log(
-        `Curso: ${data.titleCurrent}\nQuantidade de Vendas: ${data.salesCurrent}\nNovas vendas: ${newSales} em ${diffDays} dia(s) e ${diffHours}hr(s) de diferença!`
+      logger(
+        `Curso: ${data.titleCurrent}\n[INFO] Quantidade de Vendas: ${data.salesCurrent}\n[INFO] Novas vendas: ${newSales} em ${diffDays} dia(s) e ${diffHours}hr(s) de diferença!`
       );
 
       // Escreve no JSON os dados
       fs.writeFile(filePath, JSON.stringify(jsonObject, null, 2), (err) => {
         if (err) {
-          console.error("Erro ao escrever no arquivo:", err);
+          logger(
+            `Erro ao escrever no arquivo: ${JSON.stringify(err, null, 2)}`
+          );
         } else {
-          console.log(
-            `Dados salvos com sucesso em '${sanitizedTitle}_sales_data.json'\n---------------------------------------------`
+          logger(
+            `Dados salvos com sucesso em '${sanitizedTitle}_sales_data.json'\n------------------------------------------------------------------`
           );
         }
       });
     }
   });
-  saveExecutionLog();
 }

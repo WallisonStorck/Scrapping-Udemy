@@ -1,11 +1,22 @@
 {
-  "nextID": 2,
+  "nextID": 3,
   "data": [
     {
       "id": 1,
       "titleCourse": "HTML & CSS: Do Zero ao Avançado – Crie Sites Profissionais!",
       "salesQuantity": 46,
       "timestamp": "7/10/2025, 11:49:32 AM"
+    },
+    {
+      "id": 2,
+      "titleCourse": "HTML & CSS: Do Zero ao Avançado – Crie Sites Profissionais!",
+      "salesQuantity": 46,
+      "timestamp": "7/12/2025, 10:41:31 AM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 22
+      }
     }
   ]
 }

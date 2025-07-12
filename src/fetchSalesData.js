@@ -1,5 +1,6 @@
 import puppeteer from "puppeteer";
 import saveSalesData from "./saveSalesData.js";
+import { logger } from "./logger.js";
 
 export default async function fetchSalesData(courseUrl) {
   const browser = await puppeteer.launch({ headless: false });
@@ -31,10 +32,10 @@ export default async function fetchSalesData(courseUrl) {
 
     await browser.close();
 
-    console.log("Dados coletados:", salesData);
+    logger(`Dados coletados: ${JSON.stringify(salesData, null, 2)}`);
     saveSalesData(salesData);
   } catch (error) {
-    console.error("Erro ao buscar os seletores:", error);
+    logger(`Erro ao buscar os seletores: ${JSON.stringify(error, null, 2)}`);
     await page.screenshot({ path: "error_screenshot.png" });
     await browser.close();
   }

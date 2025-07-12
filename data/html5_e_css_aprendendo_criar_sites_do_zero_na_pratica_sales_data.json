@@ -1,5 +1,5 @@
 {
-  "nextID": 16,
+  "nextID": 18,
   "data": [
     {
       "id": 1,
@@ -154,6 +154,28 @@
       "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
       "salesQuantity": 995,
       "timestamp": "7/10/2025, 11:49:17 AM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 16,
+      "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "salesQuantity": 996,
+      "timestamp": "7/12/2025, 10:40:26 AM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 22
+      }
+    },
+    {
+      "id": 17,
+      "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "salesQuantity": 996,
+      "timestamp": "7/12/2025, 10:41:10 AM",
       "salesAmount": {
         "newSales": 0,
         "inDays": 0,

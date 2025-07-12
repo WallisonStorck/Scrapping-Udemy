@@ -1,5 +1,5 @@
 {
-  "nextID": 15,
+  "nextID": 18,
   "data": [
     {
       "id": 1,
@@ -144,6 +144,39 @@
       "titleCourse": "Como Criar Cursos Online de Sucesso 2022 - Intermediário",
       "salesQuantity": 43,
       "timestamp": "7/10/2025, 4:17:42 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 15,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2022 - Intermediário",
+      "salesQuantity": 43,
+      "timestamp": "7/12/2025, 10:25:42 AM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 18
+      }
+    },
+    {
+      "id": 16,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2022 - Intermediário",
+      "salesQuantity": 43,
+      "timestamp": "7/12/2025, 10:53:29 AM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 17,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2022 - Intermediário",
+      "salesQuantity": 43,
+      "timestamp": "7/12/2025, 10:53:46 AM",
       "salesAmount": {
         "newSales": 0,
         "inDays": 0,

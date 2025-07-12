@@ -1,5 +1,5 @@
 {
-  "nextID": 12,
+  "nextID": 13,
   "data": [
     {
       "id": 1,
@@ -115,6 +115,17 @@
         "newSales": 388,
         "inDays": 359,
         "inHours": 6
+      }
+    },
+    {
+      "id": 12,
+      "titleCourse": "YouTube sem Mistérios: crie e faça crescer o seu canal",
+      "salesQuantity": 2877,
+      "timestamp": "7/12/2025, 10:26:47 AM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 22
       }
     }
   ]

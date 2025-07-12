@@ -1,5 +1,5 @@
 {
-  "nextID": 12,
+  "nextID": 13,
   "data": [
     {
       "id": 1,
@@ -115,6 +115,17 @@
         "newSales": 143,
         "inDays": 359,
         "inHours": 6
+      }
+    },
+    {
+      "id": 12,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1219,
+      "timestamp": "7/12/2025, 10:25:50 AM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 22
       }
     }
   ]

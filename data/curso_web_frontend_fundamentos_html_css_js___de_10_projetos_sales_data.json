@@ -1,5 +1,5 @@
 {
-  "nextID": 17,
+  "nextID": 18,
   "data": [
     {
       "id": 1,
@@ -158,6 +158,17 @@
         "newSales": 8005,
         "inDays": 359,
         "inHours": 6
+      }
+    },
+    {
+      "id": 17,
+      "titleCourse": "Curso Web Frontend Fundamentos HTML CSS JS + de 10 Projetos",
+      "salesQuantity": 56811,
+      "timestamp": "7/12/2025, 10:38:57 AM",
+      "salesAmount": {
+        "newSales": 22,
+        "inDays": 1,
+        "inHours": 22
       }
     }
   ]
