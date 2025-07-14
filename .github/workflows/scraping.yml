@@ -22,7 +22,7 @@ jobs:
         run: npm install
 
       - name: Executar scraper
-        run: node src/index.js
+        run: node index.js
 
       - name: Configurar Git
         run: |
