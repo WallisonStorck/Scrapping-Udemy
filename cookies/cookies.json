@@ -1,0 +1,307 @@
+[
+  {
+    "name": "viewedOuibounceModal",
+    "value": "true",
+    "domain": "www.udemy.com",
+    "path": "/course/como-criar-cursos-online-de-sucesso-2020-intermediario",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "__udmy_2_v57r",
+    "value": "7370252970ee40608e9fb7ae63ea3adc",
+    "domain": ".udemy.com",
+    "path": "/",
+    "expires": 1768073268.42662,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "ud_firstvisit",
+    "value": "2025-07-10T14:08:54.138050+00:00:1uZrxG:EKWyR4FuNg0Fy4_FAOXlAF102dUEVA0K1I4A5XJeTvM",
+    "domain": "www.udemy.com",
+    "path": "/",
+    "expires": 1767708534.940154,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "__stripe_mid",
+    "value": "f2647df8-f20e-46a4-aa14-8e1922f8472210bb15",
+    "domain": ".www.udemy.com",
+    "path": "/",
+    "expires": 1753126041.817552,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Strict"
+  },
+  {
+    "name": "dwndvc",
+    "value": "953d687c86f14e7cb470a4653ee2914bc348a316806df1589adba8ba30b7a5b6",
+    "domain": "www.udemy.com",
+    "path": "/",
+    "expires": 1767715572.664009,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "ud_user_jwt",
+    "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjQwMjMwNzgyLCJlbWFpbCI6InN0b3Jjazc3OUBnbWFpbC5jb20iLCJpc19zdXBlcnVzZXIiOmZhbHNlLCJncm91cF9pZHMiOltdfQ.NTfm4QUFc37WPMLMMseS-L8JDVIXlyHIccThziF8KNI",
+    "domain": "www.udemy.com",
+    "path": "/",
+    "expires": 1754755594.577416,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "ud_credit_last_seen",
+    "value": "None",
+    "domain": "www.udemy.com",
+    "path": "/",
+    "expires": 1767715594.577654,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "ud_locale",
+    "value": "pt_BR",
+    "domain": "www.udemy.com",
+    "path": "/",
+    "expires": 1767715594.577888,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "client_id",
+    "value": "bd2565cb7b0c313f5e9bae44961e8db2",
+    "domain": "www.udemy.com",
+    "path": "/",
+    "expires": 1754755593.577918,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "access_token",
+    "value": "r13AcI6cYvaqqBDPWbtSqpQm+mVRL5GvZBY8WJIQ1ic:cZ0Yg+NTGXxDp2rb7qvQQm0AYVQs6YoIrs31zYvKJoY",
+    "domain": "www.udemy.com",
+    "path": "/",
+    "expires": 1754755593.577973,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ud_last_auth_information",
+    "value": "\"{\\\"backend\\\": \\\"google\\\"\\054 \\\"suggested_user_email\\\": \\\"storck779@gmail.com\\\"\\054 \\\"suggested_user_name\\\": \\\"Wallison Storck\\\"\\054 \\\"suggested_user_avatar\\\": \\\"https://img-c.udemycdn.com/user/50x50/anonymous_3.png\\\"\\054 \\\"suggested_user_phone_number\\\": null}:1uZtn8:SzcgYDOcUdIQijyckTp43aO9PRZSUUlWyTvGyiCH4C8\"",
+    "domain": "www.udemy.com",
+    "path": "/",
+    "expires": 1767715594.57801,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "dj_session_id",
+    "value": "7qtwt36229icl3wbbiray8637h10iuv9",
+    "domain": "www.udemy.com",
+    "path": "/",
+    "expires": 1754755594.578051,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "csrftoken",
+    "value": "gWayfmAv7QfdPv44OcYzvZ5iRE1vu0jG",
+    "domain": "www.udemy.com",
+    "path": "/",
+    "expires": 1768073268.426707,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "existing_user",
+    "value": "true",
+    "domain": "www.udemy.com",
+    "path": "/",
+    "expires": 1752777896.568331,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "optimizelyEndUserId",
+    "value": "oeu1752173096573r0.20251926833673617",
+    "domain": ".udemy.com",
+    "path": "/",
+    "expires": 1752777896.575036,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "__cfruid",
+    "value": "7728ce9ca951b5fbe739476f5b18fa7c47fcf18a-1752508515",
+    "domain": ".udemy.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "ud_cache_brand",
+    "value": "BRpt_BR",
+    "domain": "www.udemy.com",
+    "path": "/",
+    "expires": 1752607668.426837,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "ud_cache_campaign_code",
+    "value": "2021PM25",
+    "domain": "www.udemy.com",
+    "path": "/",
+    "expires": 1752607668.426891,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "ud_cache_marketplace_country",
+    "value": "BR",
+    "domain": "www.udemy.com",
+    "path": "/",
+    "expires": 1752607668.426944,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "ud_cache_price_country",
+    "value": "BR",
+    "domain": "www.udemy.com",
+    "path": "/",
+    "expires": 1752607668.427016,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "ud_cache_user",
+    "value": "240230782",
+    "domain": "www.udemy.com",
+    "path": "/",
+    "expires": 1752607668.427133,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "ud_cache_version",
+    "value": "1",
+    "domain": "www.udemy.com",
+    "path": "/",
+    "expires": 1752607668.42719,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "ud_cache_language",
+    "value": "pt",
+    "domain": "www.udemy.com",
+    "path": "/",
+    "expires": 1752607668.42724,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "ud_cache_device",
+    "value": "None",
+    "domain": "www.udemy.com",
+    "path": "/",
+    "expires": 1752607668.427289,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "ud_cache_logged_in",
+    "value": "1",
+    "domain": "www.udemy.com",
+    "path": "/",
+    "expires": 1752607668.427339,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "ud_credit_unseen",
+    "value": "0",
+    "domain": "www.udemy.com",
+    "path": "/",
+    "expires": 1752525452.941518,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "ud_cache_release",
+    "value": "9e36a00702300941891f",
+    "domain": "www.udemy.com",
+    "path": "/",
+    "expires": 1752607668.42707,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "__cf_bm",
+    "value": "lsieNQTzT3FA_cCO7JO5nAvdhiS3z3LfB8RHeG4F2v8-1752520884-1.0.1.1-yQFTjofYmTJOaiRQYy0e0k8KglwHscesL5lkgFOhoSWAQ8s5AW3lR7hNaSn90w6xvopNGAQrwJZ.0Yh15igcYKXXZjc85pH8ysDRAAhrUXk",
+    "domain": ".udemy.com",
+    "path": "/",
+    "expires": 1752522685.046127,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "__stripe_sid",
+    "value": "6dfe62b2-c011-4a44-9e2c-574e853d864402d68b",
+    "domain": ".www.udemy.com",
+    "path": "/",
+    "expires": 1752523041,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Strict"
+  },
+  {
+    "name": "evi",
+    "value": "\"3@VdmuErqL62jGfmPn5v-Xsu3hYRDjXerVDQpAb0XD6vk5JTPLPpdTDx23\"",
+    "domain": "www.udemy.com",
+    "path": "/",
+    "expires": 1755113268.426154,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "ud_rule_vars",
+    "value": "\"eJx1jtGKwyAQRX8l-LptmKjR6LcEZGomW2m3Up30pfTfK7QLC7v7Osw5594FY_kkpiXcUk2ci7fKghyls0CkwcBEbj1YJKMIFS7Rx5xPiYTvxH0WayqVX2xYkGlu91nIZtiD3Q_QDdrD5LXqlTKjGj4APMAsdu3rjA3lvMVj4ILrmmKoeSuRwg1LwsP5bUuXymWLbdwPrtB1o_pnVHeD89J6bXttRjO6X9HYMpXeszl9_WswvZvsJPW34SEeT2uyW8w=:1ubOq3:oY_h_imJdKC45RMTn74AA0GXusG0CGlo6LrfybD5EDY\"",
+    "domain": "www.udemy.com",
+    "path": "/",
+    "expires": 1768073268.42677,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "eventing_session_id",
+    "value": "YjEwZWVmMTAtZjQ3Zi00Y2-1752523068460",
+    "domain": ".udemy.com",
+    "path": "/",
+    "expires": 1752523068,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Strict"
+  },
+  {
+    "name": "OptanonConsent",
+    "value": "isGpcEnabled=1&datestamp=Mon+Jul+14+2025+15%3A27%3A48+GMT-0400+(Amazon+Standard+Time)&version=202407.1.0&browserGpcFlag=1&isIABGlobal=false&hosts=&consentId=2e6aae3c-eabb-4027-b284-3a8c88c72ff7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0003%3A1%2CC0005%3A0%2CC0004%3A0%2CC0001%3A1%2CC0002%3A1&AwaitingReconsent=false",
+    "domain": ".www.udemy.com",
+    "path": "/",
+    "expires": 1753126068.58754,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  }
+]

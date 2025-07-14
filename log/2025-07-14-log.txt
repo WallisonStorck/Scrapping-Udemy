@@ -364,3 +364,57 @@ Created at: 14/07/2025, 11:45:20
 [INFO] Novas vendas: 4 em 2 dia(s) e 1hr(s) de diferença!
 [14/07/2025, 11:50:18] Dados salvos com sucesso em 'programa__o_em_python_do_b_sico_ao_avan_ado_sales_data.json'
 ------------------------------------------------------------------
+[14/07/2025, 15:14:37] 
+[14/07/2025, 15:14:37] ****** Iniciando scrapping... ******
+[14/07/2025, 15:14:37] 
+[14/07/2025, 15:14:53] Dados coletados: {
+  "titleCurrent": "Como Criar Cursos Online de Sucesso 2022 - Intermediário",
+  "salesCurrent": 43,
+  "timestamp": "7/14/2025, 3:14:52 PM"
+}
+[14/07/2025, 15:14:53] Curso: Como Criar Cursos Online de Sucesso 2022 - Intermediário
+[INFO] Quantidade de Vendas: 43
+[INFO] Novas vendas: 0 em 0 dia(s) e 3hr(s) de diferença!
+[14/07/2025, 15:14:53] Dados salvos com sucesso em 'como_criar_cursos_online_de_sucesso_2022___intermedi_rio_sales_data.json'
+------------------------------------------------------------------
+[14/07/2025, 15:15:01] 
+[14/07/2025, 15:15:01] ****** Iniciando scrapping... ******
+[14/07/2025, 15:15:01] 
+[14/07/2025, 15:16:43] 
+[14/07/2025, 15:16:43] ****** Iniciando scrapping... ******
+[14/07/2025, 15:16:43] 
+[14/07/2025, 15:17:14] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[14/07/2025, 15:17:22] Dados coletados: {
+  "titleCurrent": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+  "salesCurrent": 1219,
+  "timestamp": "7/14/2025, 3:17:22 PM"
+}
+[14/07/2025, 15:17:22] Curso: Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1
+[INFO] Quantidade de Vendas: 1219
+[INFO] Novas vendas: 0 em 0 dia(s) e 3hr(s) de diferença!
+[14/07/2025, 15:17:22] Dados salvos com sucesso em 'como_criar_cursos_online_de_sucesso_2024___3_cursos_em_1_sales_data.json'
+------------------------------------------------------------------
+[14/07/2025, 15:28:49] 
+[14/07/2025, 15:28:49] ****** Iniciando scrapping... ******
+[14/07/2025, 15:28:49] 
+[14/07/2025, 15:30:14] 
+[14/07/2025, 15:30:14] ****** Iniciando scrapping... ******
+[14/07/2025, 15:30:14] 
+[14/07/2025, 15:30:31] 
+[14/07/2025, 15:30:31] ****** Iniciando scrapping... ******
+[14/07/2025, 15:30:31] 
+[14/07/2025, 15:30:39] Dados coletados: {
+  "titleCurrent": "Como Criar Cursos Online de Sucesso 2022 - Intermediário",
+  "salesCurrent": 43,
+  "timestamp": "7/14/2025, 3:30:39 PM"
+}
+[14/07/2025, 15:30:39] Curso: Como Criar Cursos Online de Sucesso 2022 - Intermediário
+[INFO] Quantidade de Vendas: 43
+[INFO] Novas vendas: 0 em 0 dia(s) e 0hr(s) de diferença!
+[14/07/2025, 15:30:39] Dados salvos com sucesso em 'como_criar_cursos_online_de_sucesso_2022___intermedi_rio_sales_data.json'
+------------------------------------------------------------------
+[14/07/2025, 15:30:41] 
+[14/07/2025, 15:30:41] ****** Iniciando scrapping... ******
+[14/07/2025, 15:30:41] 
