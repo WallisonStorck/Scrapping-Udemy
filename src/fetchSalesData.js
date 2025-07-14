@@ -6,7 +6,7 @@ import fs from "fs";
 
 export default async function fetchSalesData(courseUrl) {
   const browser = await puppeteer.launch({
-    headless: false, // ou 'new' se estiver usando Puppeteer moderno
+    headless: true, // ou 'new' se estiver usando Puppeteer moderno
     args: ["--no-sandbox", "--disable-setuid-sandbox"],
   });
   const page = await browser.newPage();
