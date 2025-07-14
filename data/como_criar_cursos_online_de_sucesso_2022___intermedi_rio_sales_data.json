@@ -1,5 +1,5 @@
 {
-  "nextID": 18,
+  "nextID": 19,
   "data": [
     {
       "id": 1,
@@ -180,6 +180,17 @@
       "salesAmount": {
         "newSales": 0,
         "inDays": 0,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 18,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2022 - Intermediário",
+      "salesQuantity": 43,
+      "timestamp": "7/14/2025, 11:45:29 AM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 2,
         "inHours": 0
       }
     }

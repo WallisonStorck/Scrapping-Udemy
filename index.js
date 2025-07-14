@@ -25,14 +25,12 @@ const courseUrls = [
   "https://www.udemy.com/course/curso-de-reactjs-nextjs-completo-do-basico-ao-avancado",
   "https://www.udemy.com/course/curso-do-figma-ao-codigo-o-design-da-interface-web-completo",
   // -------------------- HTML & CSS --------------------
-  "https://www.udemy.com/course/curso-html5-css",
   "https://www.udemy.com/course/html-e-css-o-inicio",
   "https://www.udemy.com/course/html-essencial-desenvolvimento-front-end",
   "https://www.udemy.com/course/web-frontend-completo-html-css-javascript-typescript-react-next/",
   "https://www.udemy.com/course/curso-html5-css/",
   "https://www.udemy.com/course/web-completo/",
   "https://www.udemy.com/course/html-css-do-zero-ao-avancado/",
-  "https://www.udemy.com/course/html-essencial-desenvolvimento-front-end/",
   "https://www.udemy.com/course/modulo-i-intro-html/",
   "https://www.udemy.com/course/crie-sites-do-zero-html-css-e-javascript-na-pratica/",
   // -------------------- PYTHON --------------------
@@ -45,7 +43,9 @@ const courseUrls = [
 ];
 
 async function main() {
+  logger("");
   logger("****** Iniciando scrapping... ******");
+  logger("");
   for (const url of courseUrls) {
     await fetchSalesData(url);
   }

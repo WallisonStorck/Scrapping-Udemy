@@ -1,5 +1,5 @@
 {
-  "nextID": 11,
+  "nextID": 12,
   "data": [
     {
       "id": 1,
@@ -104,6 +104,17 @@
         "newSales": 6,
         "inDays": 1,
         "inHours": 22
+      }
+    },
+    {
+      "id": 11,
+      "titleCourse": "Aprenda JAVASCRIPT em 7 dias + Projetos Reais",
+      "salesQuantity": 8909,
+      "timestamp": "7/14/2025, 11:46:34 AM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 2,
+        "inHours": 1
       }
     }
   ]

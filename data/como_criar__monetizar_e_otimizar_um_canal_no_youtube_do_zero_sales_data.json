@@ -1,5 +1,5 @@
 {
-  "nextID": 13,
+  "nextID": 14,
   "data": [
     {
       "id": 1,
@@ -126,6 +126,17 @@
         "newSales": 2,
         "inDays": 1,
         "inHours": 22
+      }
+    },
+    {
+      "id": 13,
+      "titleCourse": "Como criar, monetizar e otimizar um canal no YouTube do ZERO",
+      "salesQuantity": 451,
+      "timestamp": "7/14/2025, 11:45:46 AM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 2,
+        "inHours": 1
       }
     }
   ]

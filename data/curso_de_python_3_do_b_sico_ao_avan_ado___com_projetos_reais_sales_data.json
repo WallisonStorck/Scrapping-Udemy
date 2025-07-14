@@ -1,5 +1,5 @@
 {
-  "nextID": 3,
+  "nextID": 4,
   "data": [
     {
       "id": 1,
@@ -16,6 +16,17 @@
         "newSales": 155,
         "inDays": 1,
         "inHours": 22
+      }
+    },
+    {
+      "id": 3,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 200862,
+      "timestamp": "7/14/2025, 11:49:38 AM",
+      "salesAmount": {
+        "newSales": 69,
+        "inDays": 2,
+        "inHours": 1
       }
     }
   ]
