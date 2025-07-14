@@ -3,7 +3,11 @@ import saveSalesData from "./saveSalesData.js";
 import { logger } from "./logger.js";
 
 export default async function fetchSalesData(courseUrl) {
-  const browser = await puppeteer.launch({ headless: false });
+  const browser = await puppeteer.launch({
+    headless: true, // ou 'new' se estiver usando Puppeteer moderno
+    args: ["--no-sandbox", "--disable-setuid-sandbox"],
+  });
+
   const page = await browser.newPage();
 
   try {
