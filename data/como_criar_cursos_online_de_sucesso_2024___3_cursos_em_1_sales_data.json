@@ -1,5 +1,5 @@
 {
-  "nextID": 15,
+  "nextID": 13,
   "data": [
     {
       "id": 1,
@@ -120,34 +120,12 @@
     {
       "id": 12,
       "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
-      "salesQuantity": 1219,
-      "timestamp": "7/12/2025, 10:25:50 AM",
+      "salesQuantity": 1220,
+      "timestamp": "7/15/2025, 12:30:19 PM",
       "salesAmount": {
-        "newSales": 1,
-        "inDays": 1,
-        "inHours": 22
-      }
-    },
-    {
-      "id": 13,
-      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
-      "salesQuantity": 1219,
-      "timestamp": "7/14/2025, 11:45:37 AM",
-      "salesAmount": {
-        "newSales": 0,
-        "inDays": 2,
-        "inHours": 1
-      }
-    },
-    {
-      "id": 14,
-      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
-      "salesQuantity": 1219,
-      "timestamp": "7/14/2025, 3:17:22 PM",
-      "salesAmount": {
-        "newSales": 0,
-        "inDays": 0,
-        "inHours": 3
+        "newSales": 2,
+        "inDays": 5,
+        "inHours": 0
       }
     }
   ]

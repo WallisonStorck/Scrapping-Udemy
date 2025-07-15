@@ -1,5 +1,5 @@
 {
-  "nextID": 4,
+  "nextID": 5,
   "data": [
     {
       "id": 1,
@@ -27,6 +27,17 @@
         "newSales": 14,
         "inDays": 2,
         "inHours": 1
+      }
+    },
+    {
+      "id": 4,
+      "titleCourse": "Curso de React JS 19 e Next.js 15 (atualizado para 2025)",
+      "salesQuantity": 26598,
+      "timestamp": "7/15/2025, 12:32:40 PM",
+      "salesAmount": {
+        "newSales": 18,
+        "inDays": 1,
+        "inHours": 0
       }
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "nextID": 4,
+  "nextID": 5,
   "data": [
     {
       "id": 1,
@@ -27,6 +27,17 @@
         "newSales": 8,
         "inDays": 2,
         "inHours": 1
+      }
+    },
+    {
+      "id": 4,
+      "titleCourse": "Python Desenvolvedor 2025 - Do Zero ao Avançado + Projetos",
+      "salesQuantity": 2796,
+      "timestamp": "7/15/2025, 12:34:18 PM",
+      "salesAmount": {
+        "newSales": 10,
+        "inDays": 1,
+        "inHours": 0
       }
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "nextID": 4,
+  "nextID": 5,
   "data": [
     {
       "id": 1,
@@ -27,6 +27,17 @@
         "newSales": 25,
         "inDays": 2,
         "inHours": 1
+      }
+    },
+    {
+      "id": 4,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 166901,
+      "timestamp": "7/15/2025, 12:33:31 PM",
+      "salesAmount": {
+        "newSales": 12,
+        "inDays": 1,
+        "inHours": 0
       }
     }
   ]

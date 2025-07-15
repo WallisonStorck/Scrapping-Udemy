@@ -1,5 +1,5 @@
 {
-  "nextID": 12,
+  "nextID": 13,
   "data": [
     {
       "id": 1,
@@ -115,6 +115,17 @@
         "newSales": 11,
         "inDays": 2,
         "inHours": 1
+      }
+    },
+    {
+      "id": 12,
+      "titleCourse": "Curso Web Moderno Completo com JavaScript + Projetos",
+      "salesQuantity": 150347,
+      "timestamp": "7/15/2025, 12:32:15 PM",
+      "salesAmount": {
+        "newSales": 8,
+        "inDays": 1,
+        "inHours": 0
       }
     }
   ]

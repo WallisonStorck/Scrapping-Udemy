@@ -1,21 +1,13 @@
 import puppeteer from "puppeteer";
 import saveSalesData from "./saveSalesData.js";
 import { logger } from "./logger.js";
-import path from "path";
-import fs from "fs";
 
 export default async function fetchSalesData(courseUrl) {
   const browser = await puppeteer.launch({
-    headless: true, // ou 'new' se estiver usando Puppeteer moderno
+    headless: false, // ou 'new' se estiver usando Puppeteer moderno
     args: ["--no-sandbox", "--disable-setuid-sandbox"],
   });
   const page = await browser.newPage();
-
-  // Carregando cookies salvos
-  const cookiesPath = path.resolve("cookies", "cookies.json");
-  const cookiesString = fs.readFileSync(cookiesPath);
-  const cookies = JSON.parse(cookiesString);
-  await page.setCookie(...cookies);
 
   try {
     await page.goto(courseUrl, { waitUntil: "networkidle2" });
