@@ -1,0 +1,275 @@
+{
+  "nextID": 26,
+  "data": [
+    {
+      "id": 1,
+      "titleCourse": "Lógica de Programação e Estruturas de Dados com Javascript",
+      "salesQuantity": 8306,
+      "timestamp": "8/8/2025, 12:31:50 PM"
+    },
+    {
+      "id": 2,
+      "titleCourse": "Lógica de Programação e Estruturas de Dados com Javascript",
+      "salesQuantity": 8309,
+      "timestamp": "8/11/2025, 12:31:47 PM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 2,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 3,
+      "titleCourse": "Lógica de Programação e Estruturas de Dados com Javascript",
+      "salesQuantity": 8310,
+      "timestamp": "8/12/2025, 12:31:49 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 4,
+      "titleCourse": "Lógica de Programação e Estruturas de Dados com Javascript",
+      "salesQuantity": 8311,
+      "timestamp": "8/13/2025, 12:31:54 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 5,
+      "titleCourse": "Lógica de Programação e Estruturas de Dados com Javascript",
+      "salesQuantity": 8315,
+      "timestamp": "8/14/2025, 12:31:03 PM",
+      "salesAmount": {
+        "newSales": 4,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 6,
+      "titleCourse": "Lógica de Programação e Estruturas de Dados com Javascript",
+      "salesQuantity": 8316,
+      "timestamp": "8/15/2025, 12:31:50 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 7,
+      "titleCourse": "Lógica de Programação e Estruturas de Dados com Javascript",
+      "salesQuantity": 8317,
+      "timestamp": "8/16/2025, 12:31:56 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 8,
+      "titleCourse": "Lógica de Programação e Estruturas de Dados com Javascript",
+      "salesQuantity": 8317,
+      "timestamp": "8/18/2025, 12:31:57 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 9,
+      "titleCourse": "Lógica de Programação e Estruturas de Dados com Javascript",
+      "salesQuantity": 8321,
+      "timestamp": "8/19/2025, 12:31:15 PM",
+      "salesAmount": {
+        "newSales": 4,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 10,
+      "titleCourse": "Lógica de Programação e Estruturas de Dados com Javascript",
+      "salesQuantity": 8324,
+      "timestamp": "8/20/2025, 12:32:07 PM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 11,
+      "titleCourse": "Lógica de Programação e Estruturas de Dados com Javascript",
+      "salesQuantity": 8326,
+      "timestamp": "8/21/2025, 12:32:16 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 12,
+      "titleCourse": "Lógica de Programação e Estruturas de Dados com Javascript",
+      "salesQuantity": 8328,
+      "timestamp": "8/22/2025, 3:21:34 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 1,
+        "inHours": 2
+      }
+    },
+    {
+      "id": 13,
+      "titleCourse": "Lógica de Programação e Estruturas de Dados com Javascript",
+      "salesQuantity": 8328,
+      "timestamp": "8/23/2025, 12:31:08 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 21
+      }
+    },
+    {
+      "id": 14,
+      "titleCourse": "Lógica de Programação e Estruturas de Dados com Javascript",
+      "salesQuantity": 8332,
+      "timestamp": "8/25/2025, 12:31:24 PM",
+      "salesAmount": {
+        "newSales": 4,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 15,
+      "titleCourse": "Lógica de Programação e Estruturas de Dados com Javascript",
+      "salesQuantity": 8338,
+      "timestamp": "8/27/2025, 12:32:13 PM",
+      "salesAmount": {
+        "newSales": 6,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 16,
+      "titleCourse": "Lógica de Programação e Estruturas de Dados com Javascript",
+      "salesQuantity": 8338,
+      "timestamp": "8/28/2025, 12:34:46 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 17,
+      "titleCourse": "Lógica de Programação e Estruturas de Dados com Javascript",
+      "salesQuantity": 8339,
+      "timestamp": "8/29/2025, 12:32:15 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 18,
+      "titleCourse": "Lógica de Programação e Estruturas de Dados com Javascript",
+      "salesQuantity": 8341,
+      "timestamp": "9/2/2025, 12:32:10 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 3,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 19,
+      "titleCourse": "Lógica de Programação e Estruturas de Dados com Javascript",
+      "salesQuantity": 8345,
+      "timestamp": "9/6/2025, 12:33:16 PM",
+      "salesAmount": {
+        "newSales": 4,
+        "inDays": 4,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 20,
+      "titleCourse": "Lógica de Programação e Estruturas de Dados com Javascript",
+      "salesQuantity": 8345,
+      "timestamp": "9/8/2025, 12:32:09 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 21,
+      "titleCourse": "Lógica de Programação e Estruturas de Dados com Javascript",
+      "salesQuantity": 8350,
+      "timestamp": "9/10/2025, 12:33:59 PM",
+      "salesAmount": {
+        "newSales": 5,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 22,
+      "titleCourse": "Lógica de Programação e Estruturas de Dados com Javascript",
+      "salesQuantity": 8355,
+      "timestamp": "9/13/2025, 12:32:34 PM",
+      "salesAmount": {
+        "newSales": 5,
+        "inDays": 2,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 23,
+      "titleCourse": "Lógica de Programação e Estruturas de Dados com Javascript",
+      "salesQuantity": 8356,
+      "timestamp": "9/15/2025, 12:33:14 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 24,
+      "titleCourse": "Lógica de Programação e Estruturas de Dados com Javascript",
+      "salesQuantity": 8357,
+      "timestamp": "9/16/2025, 12:33:46 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 25,
+      "titleCourse": "Lógica de Programação e Estruturas de Dados com Javascript",
+      "salesQuantity": 8358,
+      "timestamp": "9/17/2025, 12:33:03 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 0,
+        "inHours": 23
+      }
+    }
+  ]
+}

@@ -2,8 +2,8 @@ import fetchSalesData from "./src/fetchSalesData.js";
 import { logger } from "./src/logger.js";
 
 const courseUrls = [
-  "https://www.udemy.com/course/como-criar-cursos-online-de-sucesso-2020-intermediario",
-  "https://www.udemy.com/course/como-criar-cursos-online-de-sucesso-vip-3-cursos-em-1",
+  // "https://www.udemy.com/course/como-criar-cursos-online-de-sucesso-2020-intermediario",
+  // "https://www.udemy.com/course/como-criar-cursos-online-de-sucesso-vip-3-cursos-em-1",
   "https://www.udemy.com/course/como-criar-monetizar-e-otimizar-um-canal-no-youtube-do-zero",
   "https://www.udemy.com/course/como-criar-um-curso-na-udemy-unofficial-e-ganhar-em-dollar",
   "https://www.udemy.com/course/como-criar-um-curso-online",
@@ -15,6 +15,7 @@ const courseUrls = [
   "https://www.udemy.com/course/curso-completo-de-javascript-v",
   "https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado",
   "https://www.udemy.com/course/curso-web-design-fundamentos-aprenda-html-css-e-javascript",
+  "https://www.udemy.com/course/logica-de-programacao-com-javascript-iniciando-no-frontend",
   "https://www.udemy.com/course/javascript-completo-2018-do-iniciante-ao-mestre",
   "https://www.udemy.com/course/javascript-do-basico-ao-avancado-com-node-e-projetos",
   // -------------------- REACTJS --------------------
@@ -38,8 +39,9 @@ const courseUrls = [
   "https://www.udemy.com/course/programacao-python-do-basico-ao-avancado/",
   "https://www.udemy.com/course/python-desenvolvedor-do-zero-ao-avancado-projetos-praticos/",
   "https://www.udemy.com/course/python-rpa-e-excel-aprenda-automatizar-processos-e-planilhas/",
-  "https://www.udemy.com/course/programacao-em-python-do-basico-ao-avancado/",
   "https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado/",
+  // -------------------- OUTROS --------------------
+  "https://www.udemy.com/course/introducao-a-engenharia-com-arduino",
 ];
 
 async function main() {

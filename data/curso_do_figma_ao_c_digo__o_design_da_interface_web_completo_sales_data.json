@@ -1,5 +1,5 @@
 {
-  "nextID": 15,
+  "nextID": 56,
   "data": [
     {
       "id": 1,
@@ -147,6 +147,457 @@
       "salesAmount": {
         "newSales": 2,
         "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 15,
+      "titleCourse": "Curso do FIGMA ao código. O design da interface web completo",
+      "salesQuantity": 3682,
+      "timestamp": "7/16/2025, 12:32:56 PM",
+      "salesAmount": {
+        "newSales": 10,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 16,
+      "titleCourse": "Curso do FIGMA ao código. O design da interface web completo",
+      "salesQuantity": 3691,
+      "timestamp": "7/17/2025, 12:32:53 PM",
+      "salesAmount": {
+        "newSales": 9,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 17,
+      "titleCourse": "Curso do FIGMA ao código. O design da interface web completo",
+      "salesQuantity": 3699,
+      "timestamp": "7/18/2025, 12:32:51 PM",
+      "salesAmount": {
+        "newSales": 8,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 18,
+      "titleCourse": "Curso do FIGMA ao código. O design da interface web completo",
+      "salesQuantity": 3703,
+      "timestamp": "7/21/2025, 12:32:49 PM",
+      "salesAmount": {
+        "newSales": 4,
+        "inDays": 2,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 19,
+      "titleCourse": "Curso do FIGMA ao código. O design da interface web completo",
+      "salesQuantity": 3708,
+      "timestamp": "7/22/2025, 12:32:49 PM",
+      "salesAmount": {
+        "newSales": 5,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 20,
+      "titleCourse": "Curso do FIGMA ao código. O design da interface web completo",
+      "salesQuantity": 3714,
+      "timestamp": "7/23/2025, 12:38:11 PM",
+      "salesAmount": {
+        "newSales": 6,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 21,
+      "titleCourse": "Curso do FIGMA ao código. O design da interface web completo",
+      "salesQuantity": 3716,
+      "timestamp": "7/24/2025, 12:32:50 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 22,
+      "titleCourse": "Curso do FIGMA ao código. O design da interface web completo",
+      "salesQuantity": 3723,
+      "timestamp": "7/25/2025, 12:32:55 PM",
+      "salesAmount": {
+        "newSales": 7,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 23,
+      "titleCourse": "Curso do FIGMA ao código. O design da interface web completo",
+      "salesQuantity": 3724,
+      "timestamp": "7/26/2025, 12:32:45 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 24,
+      "titleCourse": "Curso do FIGMA ao código. O design da interface web completo",
+      "salesQuantity": 3725,
+      "timestamp": "7/27/2025, 12:32:50 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 25,
+      "titleCourse": "Curso do FIGMA ao código. O design da interface web completo",
+      "salesQuantity": 3726,
+      "timestamp": "7/28/2025, 12:33:17 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 26,
+      "titleCourse": "Curso do FIGMA ao código. O design da interface web completo",
+      "salesQuantity": 3729,
+      "timestamp": "7/29/2025, 12:31:58 PM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 27,
+      "titleCourse": "Curso do FIGMA ao código. O design da interface web completo",
+      "salesQuantity": 3736,
+      "timestamp": "7/30/2025, 12:32:48 PM",
+      "salesAmount": {
+        "newSales": 7,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 28,
+      "titleCourse": "Curso do FIGMA ao código. O design da interface web completo",
+      "salesQuantity": 3744,
+      "timestamp": "7/31/2025, 12:31:33 PM",
+      "salesAmount": {
+        "newSales": 8,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 29,
+      "titleCourse": "Curso do FIGMA ao código. O design da interface web completo",
+      "salesQuantity": 3753,
+      "timestamp": "8/1/2025, 12:32:53 PM",
+      "salesAmount": {
+        "newSales": 9,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 30,
+      "titleCourse": "Curso do FIGMA ao código. O design da interface web completo",
+      "salesQuantity": 3763,
+      "timestamp": "8/4/2025, 12:32:54 PM",
+      "salesAmount": {
+        "newSales": 10,
+        "inDays": 3,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 31,
+      "titleCourse": "Curso do FIGMA ao código. O design da interface web completo",
+      "salesQuantity": 3771,
+      "timestamp": "8/5/2025, 12:32:52 PM",
+      "salesAmount": {
+        "newSales": 8,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 32,
+      "titleCourse": "Curso do FIGMA ao código. O design da interface web completo",
+      "salesQuantity": 3784,
+      "timestamp": "8/6/2025, 12:32:59 PM",
+      "salesAmount": {
+        "newSales": 13,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 33,
+      "titleCourse": "Curso do FIGMA ao código. O design da interface web completo",
+      "salesQuantity": 3788,
+      "timestamp": "8/7/2025, 12:32:48 PM",
+      "salesAmount": {
+        "newSales": 4,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 34,
+      "titleCourse": "Curso do FIGMA ao código. O design da interface web completo",
+      "salesQuantity": 3795,
+      "timestamp": "8/8/2025, 12:32:54 PM",
+      "salesAmount": {
+        "newSales": 7,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 35,
+      "titleCourse": "Curso do FIGMA ao código. O design da interface web completo",
+      "salesQuantity": 3804,
+      "timestamp": "8/11/2025, 12:32:53 PM",
+      "salesAmount": {
+        "newSales": 9,
+        "inDays": 2,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 36,
+      "titleCourse": "Curso do FIGMA ao código. O design da interface web completo",
+      "salesQuantity": 3808,
+      "timestamp": "8/12/2025, 12:32:58 PM",
+      "salesAmount": {
+        "newSales": 4,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 37,
+      "titleCourse": "Curso do FIGMA ao código. O design da interface web completo",
+      "salesQuantity": 3813,
+      "timestamp": "8/13/2025, 12:33:01 PM",
+      "salesAmount": {
+        "newSales": 5,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 38,
+      "titleCourse": "Curso do FIGMA ao código. O design da interface web completo",
+      "salesQuantity": 3820,
+      "timestamp": "8/14/2025, 12:31:41 PM",
+      "salesAmount": {
+        "newSales": 7,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 39,
+      "titleCourse": "Curso do FIGMA ao código. O design da interface web completo",
+      "salesQuantity": 3827,
+      "timestamp": "8/15/2025, 12:32:56 PM",
+      "salesAmount": {
+        "newSales": 7,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 40,
+      "titleCourse": "Curso do FIGMA ao código. O design da interface web completo",
+      "salesQuantity": 3827,
+      "timestamp": "8/16/2025, 12:33:09 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 41,
+      "titleCourse": "Curso do FIGMA ao código. O design da interface web completo",
+      "salesQuantity": 3830,
+      "timestamp": "8/18/2025, 12:33:10 PM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 42,
+      "titleCourse": "Curso do FIGMA ao código. O design da interface web completo",
+      "salesQuantity": 3835,
+      "timestamp": "8/19/2025, 12:31:57 PM",
+      "salesAmount": {
+        "newSales": 5,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 43,
+      "titleCourse": "Curso do FIGMA ao código. O design da interface web completo",
+      "salesQuantity": 3841,
+      "timestamp": "8/20/2025, 12:33:26 PM",
+      "salesAmount": {
+        "newSales": 6,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 44,
+      "titleCourse": "Curso do FIGMA ao código. O design da interface web completo",
+      "salesQuantity": 3849,
+      "timestamp": "8/21/2025, 12:33:34 PM",
+      "salesAmount": {
+        "newSales": 8,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 45,
+      "titleCourse": "Curso do FIGMA ao código. O design da interface web completo",
+      "salesQuantity": 3859,
+      "timestamp": "8/22/2025, 3:22:49 PM",
+      "salesAmount": {
+        "newSales": 10,
+        "inDays": 1,
+        "inHours": 2
+      }
+    },
+    {
+      "id": 46,
+      "titleCourse": "Curso do FIGMA ao código. O design da interface web completo",
+      "salesQuantity": 3862,
+      "timestamp": "8/23/2025, 12:31:53 PM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 0,
+        "inHours": 21
+      }
+    },
+    {
+      "id": 47,
+      "titleCourse": "Curso do FIGMA ao código. O design da interface web completo",
+      "salesQuantity": 3863,
+      "timestamp": "8/25/2025, 12:32:41 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 48,
+      "titleCourse": "Curso do FIGMA ao código. O design da interface web completo",
+      "salesQuantity": 3873,
+      "timestamp": "8/27/2025, 12:34:28 PM",
+      "salesAmount": {
+        "newSales": 10,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 49,
+      "titleCourse": "Curso do FIGMA ao código. O design da interface web completo",
+      "salesQuantity": 3899,
+      "timestamp": "9/3/2025, 12:38:17 PM",
+      "salesAmount": {
+        "newSales": 26,
+        "inDays": 7,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 50,
+      "titleCourse": "Curso do FIGMA ao código. O design da interface web completo",
+      "salesQuantity": 3902,
+      "timestamp": "9/4/2025, 12:36:21 PM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 51,
+      "titleCourse": "Curso do FIGMA ao código. O design da interface web completo",
+      "salesQuantity": 3905,
+      "timestamp": "9/5/2025, 12:37:28 PM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 52,
+      "titleCourse": "Curso do FIGMA ao código. O design da interface web completo",
+      "salesQuantity": 3910,
+      "timestamp": "9/6/2025, 12:35:01 PM",
+      "salesAmount": {
+        "newSales": 5,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 53,
+      "titleCourse": "Curso do FIGMA ao código. O design da interface web completo",
+      "salesQuantity": 3943,
+      "timestamp": "9/13/2025, 12:36:01 PM",
+      "salesAmount": {
+        "newSales": 33,
+        "inDays": 7,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 54,
+      "titleCourse": "Curso do FIGMA ao código. O design da interface web completo",
+      "salesQuantity": 3950,
+      "timestamp": "9/15/2025, 12:35:30 PM",
+      "salesAmount": {
+        "newSales": 7,
+        "inDays": 1,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 55,
+      "titleCourse": "Curso do FIGMA ao código. O design da interface web completo",
+      "salesQuantity": 3966,
+      "timestamp": "9/17/2025, 12:35:52 PM",
+      "salesAmount": {
+        "newSales": 16,
+        "inDays": 2,
         "inHours": 0
       }
     }

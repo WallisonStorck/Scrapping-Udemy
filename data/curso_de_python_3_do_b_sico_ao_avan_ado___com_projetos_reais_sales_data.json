@@ -1,5 +1,5 @@
 {
-  "nextID": 5,
+  "nextID": 48,
   "data": [
     {
       "id": 1,
@@ -38,6 +38,479 @@
         "newSales": 75,
         "inDays": 1,
         "inHours": 0
+      }
+    },
+    {
+      "id": 5,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 201104,
+      "timestamp": "7/16/2025, 12:34:10 PM",
+      "salesAmount": {
+        "newSales": 167,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 6,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 201267,
+      "timestamp": "7/17/2025, 12:34:08 PM",
+      "salesAmount": {
+        "newSales": 163,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 7,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 201396,
+      "timestamp": "7/18/2025, 12:34:04 PM",
+      "salesAmount": {
+        "newSales": 129,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 8,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 201536,
+      "timestamp": "7/21/2025, 12:34:00 PM",
+      "salesAmount": {
+        "newSales": 140,
+        "inDays": 2,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 9,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 201597,
+      "timestamp": "7/22/2025, 12:34:01 PM",
+      "salesAmount": {
+        "newSales": 61,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 10,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 201776,
+      "timestamp": "7/23/2025, 12:39:23 PM",
+      "salesAmount": {
+        "newSales": 179,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 11,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 201822,
+      "timestamp": "7/24/2025, 12:34:02 PM",
+      "salesAmount": {
+        "newSales": 46,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 12,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 201944,
+      "timestamp": "7/25/2025, 12:34:06 PM",
+      "salesAmount": {
+        "newSales": 122,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 13,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 202047,
+      "timestamp": "7/26/2025, 12:33:58 PM",
+      "salesAmount": {
+        "newSales": 103,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 14,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 202071,
+      "timestamp": "7/27/2025, 12:34:01 PM",
+      "salesAmount": {
+        "newSales": 24,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 15,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 202098,
+      "timestamp": "7/28/2025, 12:34:41 PM",
+      "salesAmount": {
+        "newSales": 27,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 16,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 202137,
+      "timestamp": "7/29/2025, 12:32:35 PM",
+      "salesAmount": {
+        "newSales": 39,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 17,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 202210,
+      "timestamp": "7/30/2025, 12:33:59 PM",
+      "salesAmount": {
+        "newSales": 73,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 18,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 202336,
+      "timestamp": "7/31/2025, 12:32:09 PM",
+      "salesAmount": {
+        "newSales": 126,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 19,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 202479,
+      "timestamp": "8/1/2025, 12:34:07 PM",
+      "salesAmount": {
+        "newSales": 143,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 20,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 202669,
+      "timestamp": "8/4/2025, 12:34:05 PM",
+      "salesAmount": {
+        "newSales": 190,
+        "inDays": 2,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 21,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 202822,
+      "timestamp": "8/5/2025, 12:34:04 PM",
+      "salesAmount": {
+        "newSales": 153,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 22,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 202978,
+      "timestamp": "8/6/2025, 12:34:16 PM",
+      "salesAmount": {
+        "newSales": 156,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 23,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 203145,
+      "timestamp": "8/7/2025, 12:34:00 PM",
+      "salesAmount": {
+        "newSales": 167,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 24,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 203212,
+      "timestamp": "8/8/2025, 12:34:04 PM",
+      "salesAmount": {
+        "newSales": 67,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 25,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 203400,
+      "timestamp": "8/11/2025, 12:34:03 PM",
+      "salesAmount": {
+        "newSales": 188,
+        "inDays": 2,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 26,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 203457,
+      "timestamp": "8/12/2025, 12:34:10 PM",
+      "salesAmount": {
+        "newSales": 57,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 27,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 203530,
+      "timestamp": "8/13/2025, 12:34:13 PM",
+      "salesAmount": {
+        "newSales": 73,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 28,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 203706,
+      "timestamp": "8/14/2025, 12:32:23 PM",
+      "salesAmount": {
+        "newSales": 176,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 29,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 203854,
+      "timestamp": "8/15/2025, 12:34:08 PM",
+      "salesAmount": {
+        "newSales": 148,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 30,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 203911,
+      "timestamp": "8/16/2025, 12:34:27 PM",
+      "salesAmount": {
+        "newSales": 57,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 31,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 203980,
+      "timestamp": "8/18/2025, 12:34:29 PM",
+      "salesAmount": {
+        "newSales": 69,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 32,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 204031,
+      "timestamp": "8/19/2025, 12:32:40 PM",
+      "salesAmount": {
+        "newSales": 51,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 33,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 204181,
+      "timestamp": "8/20/2025, 12:34:50 PM",
+      "salesAmount": {
+        "newSales": 150,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 34,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 204307,
+      "timestamp": "8/21/2025, 12:34:52 PM",
+      "salesAmount": {
+        "newSales": 126,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 35,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 204439,
+      "timestamp": "8/22/2025, 3:24:07 PM",
+      "salesAmount": {
+        "newSales": 132,
+        "inDays": 1,
+        "inHours": 2
+      }
+    },
+    {
+      "id": 36,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 204568,
+      "timestamp": "8/23/2025, 12:32:35 PM",
+      "salesAmount": {
+        "newSales": 129,
+        "inDays": 0,
+        "inHours": 21
+      }
+    },
+    {
+      "id": 37,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 204642,
+      "timestamp": "8/25/2025, 12:33:31 PM",
+      "salesAmount": {
+        "newSales": 74,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 38,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 205637,
+      "timestamp": "8/26/2025, 12:37:47 PM",
+      "salesAmount": {
+        "newSales": 995,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 39,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 205855,
+      "timestamp": "8/27/2025, 12:36:43 PM",
+      "salesAmount": {
+        "newSales": 218,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 40,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 206007,
+      "timestamp": "8/28/2025, 12:40:19 PM",
+      "salesAmount": {
+        "newSales": 152,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 41,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 206315,
+      "timestamp": "9/2/2025, 12:38:57 PM",
+      "salesAmount": {
+        "newSales": 308,
+        "inDays": 4,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 42,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 206373,
+      "timestamp": "9/3/2025, 12:41:10 PM",
+      "salesAmount": {
+        "newSales": 58,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 43,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 206440,
+      "timestamp": "9/4/2025, 12:39:08 PM",
+      "salesAmount": {
+        "newSales": 67,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 44,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 206480,
+      "timestamp": "9/5/2025, 12:41:27 PM",
+      "salesAmount": {
+        "newSales": 40,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 45,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 206599,
+      "timestamp": "9/8/2025, 12:38:38 PM",
+      "salesAmount": {
+        "newSales": 119,
+        "inDays": 2,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 46,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 207212,
+      "timestamp": "9/15/2025, 12:38:23 PM",
+      "salesAmount": {
+        "newSales": 613,
+        "inDays": 6,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 47,
+      "titleCourse": "Curso de Python 3 do básico ao avançado - com projetos reais",
+      "salesQuantity": 207434,
+      "timestamp": "9/17/2025, 12:38:14 PM",
+      "salesAmount": {
+        "newSales": 222,
+        "inDays": 1,
+        "inHours": 23
       }
     }
   ]

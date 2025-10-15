@@ -1,5 +1,5 @@
 {
-  "nextID": 12,
+  "nextID": 34,
   "data": [
     {
       "id": 1,
@@ -115,6 +115,248 @@
         "newSales": 2,
         "inDays": 2,
         "inHours": 1
+      }
+    },
+    {
+      "id": 12,
+      "titleCourse": "Aprenda JAVASCRIPT em 7 Dias + Projetos Reais",
+      "salesQuantity": 9038,
+      "timestamp": "8/12/2025, 12:31:15 PM",
+      "salesAmount": {
+        "newSales": 129,
+        "inDays": 29,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 13,
+      "titleCourse": "Aprenda JAVASCRIPT em 7 Dias + Projetos Reais",
+      "salesQuantity": 9041,
+      "timestamp": "8/13/2025, 12:31:15 PM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 14,
+      "titleCourse": "Aprenda JAVASCRIPT em 7 Dias + Projetos Reais",
+      "salesQuantity": 9048,
+      "timestamp": "8/14/2025, 12:30:46 PM",
+      "salesAmount": {
+        "newSales": 7,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 15,
+      "titleCourse": "Aprenda JAVASCRIPT em 7 Dias + Projetos Reais",
+      "salesQuantity": 9050,
+      "timestamp": "8/15/2025, 12:31:15 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 16,
+      "titleCourse": "Aprenda JAVASCRIPT em 7 Dias + Projetos Reais",
+      "salesQuantity": 9050,
+      "timestamp": "8/16/2025, 12:31:19 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 17,
+      "titleCourse": "Aprenda JAVASCRIPT em 7 Dias + Projetos Reais",
+      "salesQuantity": 9050,
+      "timestamp": "8/18/2025, 12:31:22 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 18,
+      "titleCourse": "Aprenda JAVASCRIPT em 7 Dias + Projetos Reais",
+      "salesQuantity": 9051,
+      "timestamp": "8/19/2025, 12:30:51 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 19,
+      "titleCourse": "Aprenda JAVASCRIPT em 7 Dias + Projetos Reais",
+      "salesQuantity": 9053,
+      "timestamp": "8/20/2025, 12:31:25 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 20,
+      "titleCourse": "Aprenda JAVASCRIPT em 7 Dias + Projetos Reais",
+      "salesQuantity": 9055,
+      "timestamp": "8/21/2025, 12:31:34 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 21,
+      "titleCourse": "Aprenda JAVASCRIPT em 7 Dias + Projetos Reais",
+      "salesQuantity": 9060,
+      "timestamp": "8/22/2025, 3:20:56 PM",
+      "salesAmount": {
+        "newSales": 5,
+        "inDays": 1,
+        "inHours": 2
+      }
+    },
+    {
+      "id": 22,
+      "titleCourse": "Aprenda JAVASCRIPT em 7 Dias + Projetos Reais",
+      "salesQuantity": 9060,
+      "timestamp": "8/23/2025, 12:30:49 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 21
+      }
+    },
+    {
+      "id": 23,
+      "titleCourse": "Aprenda JAVASCRIPT em 7 Dias + Projetos Reais",
+      "salesQuantity": 9062,
+      "timestamp": "8/25/2025, 12:30:56 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 24,
+      "titleCourse": "Aprenda JAVASCRIPT em 7 Dias + Projetos Reais",
+      "salesQuantity": 9066,
+      "timestamp": "8/26/2025, 12:31:24 PM",
+      "salesAmount": {
+        "newSales": 4,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 25,
+      "titleCourse": "Aprenda JAVASCRIPT em 7 Dias + Projetos Reais",
+      "salesQuantity": 9070,
+      "timestamp": "8/27/2025, 12:30:52 PM",
+      "salesAmount": {
+        "newSales": 4,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 26,
+      "titleCourse": "Aprenda JAVASCRIPT em 7 Dias + Projetos Reais",
+      "salesQuantity": 9078,
+      "timestamp": "9/1/2025, 12:30:50 PM",
+      "salesAmount": {
+        "newSales": 8,
+        "inDays": 4,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 27,
+      "titleCourse": "Aprenda JAVASCRIPT em 7 Dias + Projetos Reais",
+      "salesQuantity": 9081,
+      "timestamp": "9/2/2025, 12:31:26 PM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 28,
+      "titleCourse": "Aprenda JAVASCRIPT em 7 Dias + Projetos Reais",
+      "salesQuantity": 9084,
+      "timestamp": "9/4/2025, 12:31:48 PM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 29,
+      "titleCourse": "Aprenda JAVASCRIPT em 7 Dias + Projetos Reais",
+      "salesQuantity": 9090,
+      "timestamp": "9/8/2025, 12:30:49 PM",
+      "salesAmount": {
+        "newSales": 6,
+        "inDays": 3,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 30,
+      "titleCourse": "Aprenda JAVASCRIPT em 7 Dias + Projetos Reais",
+      "salesQuantity": 9097,
+      "timestamp": "9/9/2025, 12:32:31 PM",
+      "salesAmount": {
+        "newSales": 7,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 31,
+      "titleCourse": "Aprenda JAVASCRIPT em 7 Dias + Projetos Reais",
+      "salesQuantity": 9106,
+      "timestamp": "9/13/2025, 12:31:55 PM",
+      "salesAmount": {
+        "newSales": 9,
+        "inDays": 3,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 32,
+      "titleCourse": "Aprenda JAVASCRIPT em 7 Dias + Projetos Reais",
+      "salesQuantity": 9108,
+      "timestamp": "9/15/2025, 12:31:53 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 1,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 33,
+      "titleCourse": "Aprenda JAVASCRIPT em 7 Dias + Projetos Reais",
+      "salesQuantity": 9115,
+      "timestamp": "9/17/2025, 12:31:55 PM",
+      "salesAmount": {
+        "newSales": 7,
+        "inDays": 2,
+        "inHours": 0
       }
     }
   ]

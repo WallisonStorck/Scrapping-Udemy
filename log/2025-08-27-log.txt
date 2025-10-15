@@ -1,0 +1,295 @@
+==================================
+Log File - 2025-08-27
+Created at: 27/08/2025, 12:30:02
+==================================
+
+[27/08/2025, 12:30:02] 
+[27/08/2025, 12:30:02] ****** Iniciando scrapping... ******
+[27/08/2025, 12:30:02] 
+[27/08/2025, 12:30:10] Dados coletados: {
+  "titleCurrent": "Como Criar Cursos Online de Sucesso 2022 - Intermediário",
+  "salesCurrent": 43,
+  "timestamp": "8/27/2025, 12:30:09 PM"
+}
+[27/08/2025, 12:30:10] Curso: Como Criar Cursos Online de Sucesso 2022 - Intermediário
+[INFO] Quantidade de Vendas: 43
+[INFO] Novas vendas: 0 em 0 dia(s) e 23hr(s) de diferença!
+[27/08/2025, 12:30:10] Dados salvos com sucesso em 'como_criar_cursos_online_de_sucesso_2022___intermedi_rio_sales_data.json'
+------------------------------------------------------------------
+[27/08/2025, 12:30:15] Dados coletados: {
+  "titleCurrent": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+  "salesCurrent": 1233,
+  "timestamp": "8/27/2025, 12:30:14 PM"
+}
+[27/08/2025, 12:30:15] Curso: Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1
+[INFO] Quantidade de Vendas: 1233
+[INFO] Novas vendas: 0 em 0 dia(s) e 23hr(s) de diferença!
+[27/08/2025, 12:30:15] Dados salvos com sucesso em 'como_criar_cursos_online_de_sucesso_2024___3_cursos_em_1_sales_data.json'
+------------------------------------------------------------------
+[27/08/2025, 12:30:21] Dados coletados: {
+  "titleCurrent": "Como criar, monetizar e otimizar um canal no YouTube do ZERO",
+  "salesCurrent": 464,
+  "timestamp": "8/27/2025, 12:30:20 PM"
+}
+[27/08/2025, 12:30:21] Curso: Como criar, monetizar e otimizar um canal no YouTube do ZERO
+[INFO] Quantidade de Vendas: 464
+[INFO] Novas vendas: 0 em 0 dia(s) e 23hr(s) de diferença!
+[27/08/2025, 12:30:21] Dados salvos com sucesso em 'como_criar__monetizar_e_otimizar_um_canal_no_youtube_do_zero_sales_data.json'
+------------------------------------------------------------------
+[27/08/2025, 12:30:25] Dados coletados: {
+  "titleCurrent": "Aprenda Como Criar seu Curso Online do Zero a Primeira Venda",
+  "salesCurrent": 98,
+  "timestamp": "8/27/2025, 12:30:25 PM"
+}
+[27/08/2025, 12:30:25] Curso: Aprenda Como Criar seu Curso Online do Zero a Primeira Venda
+[INFO] Quantidade de Vendas: 98
+[INFO] Novas vendas: 0 em 0 dia(s) e 23hr(s) de diferença!
+[27/08/2025, 12:30:25] Dados salvos com sucesso em 'aprenda_como_criar_seu_curso_online_do_zero_a_primeira_venda_sales_data.json'
+------------------------------------------------------------------
+[27/08/2025, 12:30:31] Dados coletados: {
+  "titleCurrent": "Como criar um curso online de sucesso (passo a passo)",
+  "salesCurrent": 6582,
+  "timestamp": "8/27/2025, 12:30:30 PM"
+}
+[27/08/2025, 12:30:31] Curso: Como criar um curso online de sucesso (passo a passo)
+[INFO] Quantidade de Vendas: 6582
+[INFO] Novas vendas: 1 em 0 dia(s) e 23hr(s) de diferença!
+[27/08/2025, 12:30:31] Dados salvos com sucesso em 'como_criar_um_curso_online_de_sucesso__passo_a_passo__sales_data.json'
+------------------------------------------------------------------
+[27/08/2025, 12:30:36] Dados coletados: {
+  "titleCurrent": "Como Criar Um Curso Online Do Zero",
+  "salesCurrent": 786,
+  "timestamp": "8/27/2025, 12:30:36 PM"
+}
+[27/08/2025, 12:30:36] Curso: Como Criar Um Curso Online Do Zero
+[INFO] Quantidade de Vendas: 786
+[INFO] Novas vendas: 0 em 0 dia(s) e 23hr(s) de diferença!
+[27/08/2025, 12:30:36] Dados salvos com sucesso em 'como_criar_um_curso_online_do_zero_sales_data.json'
+------------------------------------------------------------------
+[27/08/2025, 12:30:41] Dados coletados: {
+  "titleCurrent": "Como criar um curso online em 7 dias (Passo a passo)",
+  "salesCurrent": 68,
+  "timestamp": "8/27/2025, 12:30:40 PM"
+}
+[27/08/2025, 12:30:41] Curso: Como criar um curso online em 7 dias (Passo a passo)
+[INFO] Quantidade de Vendas: 68
+[INFO] Novas vendas: 0 em 0 dia(s) e 23hr(s) de diferença!
+[27/08/2025, 12:30:41] Dados salvos com sucesso em 'como_criar_um_curso_online_em_7_dias__passo_a_passo__sales_data.json'
+------------------------------------------------------------------
+[27/08/2025, 12:30:46] Dados coletados: {
+  "titleCurrent": "YouTube sem Mistérios: crie e faça crescer o seu canal",
+  "salesCurrent": 2892,
+  "timestamp": "8/27/2025, 12:30:46 PM"
+}
+[27/08/2025, 12:30:46] Curso: YouTube sem Mistérios: crie e faça crescer o seu canal
+[INFO] Quantidade de Vendas: 2892
+[INFO] Novas vendas: 0 em 1 dia(s) e 23hr(s) de diferença!
+[27/08/2025, 12:30:46] Dados salvos com sucesso em 'youtube_sem_mist_rios__crie_e_fa_a_crescer_o_seu_canal_sales_data.json'
+------------------------------------------------------------------
+[27/08/2025, 12:30:53] Dados coletados: {
+  "titleCurrent": "Aprenda JAVASCRIPT em 7 Dias + Projetos Reais",
+  "salesCurrent": 9070,
+  "timestamp": "8/27/2025, 12:30:52 PM"
+}
+[27/08/2025, 12:30:53] Curso: Aprenda JAVASCRIPT em 7 Dias + Projetos Reais
+[INFO] Quantidade de Vendas: 9070
+[INFO] Novas vendas: 4 em 0 dia(s) e 23hr(s) de diferença!
+[27/08/2025, 12:30:53] Dados salvos com sucesso em 'aprenda_javascript_em_7_dias___projetos_reais_sales_data.json'
+------------------------------------------------------------------
+[27/08/2025, 12:31:28] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[27/08/2025, 12:31:34] Dados coletados: {
+  "titleCurrent": "Curso de JavaScript e TypeScript do básico ao avançado JS/TS",
+  "salesCurrent": 108607,
+  "timestamp": "8/27/2025, 12:31:34 PM"
+}
+[27/08/2025, 12:31:34] Curso: Curso de JavaScript e TypeScript do básico ao avançado JS/TS
+[INFO] Quantidade de Vendas: 108607
+[INFO] Novas vendas: 1095 em 2 dia(s) e 0hr(s) de diferença!
+[27/08/2025, 12:31:34] Dados salvos com sucesso em 'curso_de_javascript_e_typescript_do_b_sico_ao_avan_ado_js_ts_sales_data.json'
+------------------------------------------------------------------
+[27/08/2025, 12:32:08] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[27/08/2025, 12:32:13] Dados coletados: {
+  "titleCurrent": "Lógica de Programação e Estruturas de Dados com Javascript",
+  "salesCurrent": 8338,
+  "timestamp": "8/27/2025, 12:32:13 PM"
+}
+[27/08/2025, 12:32:13] Curso: Lógica de Programação e Estruturas de Dados com Javascript
+[INFO] Quantidade de Vendas: 8338
+[INFO] Novas vendas: 6 em 2 dia(s) e 0hr(s) de diferença!
+[27/08/2025, 12:32:13] Dados salvos com sucesso em 'l_gica_de_programa__o_e_estruturas_de_dados_com_javascript_sales_data.json'
+------------------------------------------------------------------
+[27/08/2025, 12:32:18] Dados coletados: {
+  "titleCurrent": "Curso de JavaScript Completo",
+  "salesCurrent": 17899,
+  "timestamp": "8/27/2025, 12:32:18 PM"
+}
+[27/08/2025, 12:32:18] Curso: Curso de JavaScript Completo
+[INFO] Quantidade de Vendas: 17899
+[INFO] Novas vendas: 2 em 0 dia(s) e 23hr(s) de diferença!
+[27/08/2025, 12:32:18] Dados salvos com sucesso em 'curso_de_javascript_completo_sales_data.json'
+------------------------------------------------------------------
+[27/08/2025, 12:32:25] Dados coletados: {
+  "titleCurrent": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+  "salesCurrent": 22257,
+  "timestamp": "8/27/2025, 12:32:25 PM"
+}
+[27/08/2025, 12:32:25] Curso: JavaScript do básico ao avançado (c/ Node.js e projetos)
+[INFO] Quantidade de Vendas: 22257
+[INFO] Novas vendas: 19 em 4 dia(s) e 0hr(s) de diferença!
+[27/08/2025, 12:32:25] Dados salvos com sucesso em 'javascript_do_b_sico_ao_avan_ado__c__node_js_e_projetos__sales_data.json'
+------------------------------------------------------------------
+[27/08/2025, 12:33:00] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[27/08/2025, 12:33:35] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[27/08/2025, 12:33:40] Dados coletados: {
+  "titleCurrent": "React do Zero a Maestria (c/ hooks, router, API, Projetos)",
+  "salesCurrent": 24094,
+  "timestamp": "8/27/2025, 12:33:40 PM"
+}
+[27/08/2025, 12:33:40] Curso: React do Zero a Maestria (c/ hooks, router, API, Projetos)
+[INFO] Quantidade de Vendas: 24094
+[INFO] Novas vendas: 22 em 2 dia(s) e 0hr(s) de diferença!
+[27/08/2025, 12:33:40] Dados salvos com sucesso em 'react_do_zero_a_maestria__c__hooks__router__api__projetos__sales_data.json'
+------------------------------------------------------------------
+[27/08/2025, 12:33:47] Dados coletados: {
+  "titleCurrent": "Curso React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!",
+  "salesCurrent": 41399,
+  "timestamp": "8/27/2025, 12:33:47 PM"
+}
+[27/08/2025, 12:33:47] Curso: Curso React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!
+[INFO] Quantidade de Vendas: 41399
+[INFO] Novas vendas: 1 em 0 dia(s) e 23hr(s) de diferença!
+[27/08/2025, 12:33:47] Dados salvos com sucesso em 'curso_react___redux__fundamentos_e_2_apps_do_absoluto_zero__sales_data.json'
+------------------------------------------------------------------
+[27/08/2025, 12:34:22] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[27/08/2025, 12:34:28] Dados coletados: {
+  "titleCurrent": "Curso do FIGMA ao código. O design da interface web completo",
+  "salesCurrent": 3873,
+  "timestamp": "8/27/2025, 12:34:28 PM"
+}
+[27/08/2025, 12:34:28] Curso: Curso do FIGMA ao código. O design da interface web completo
+[INFO] Quantidade de Vendas: 3873
+[INFO] Novas vendas: 10 em 2 dia(s) e 0hr(s) de diferença!
+[27/08/2025, 12:34:28] Dados salvos com sucesso em 'curso_do_figma_ao_c_digo__o_design_da_interface_web_completo_sales_data.json'
+------------------------------------------------------------------
+[27/08/2025, 12:35:04] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[27/08/2025, 12:35:11] Dados coletados: {
+  "titleCurrent": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+  "salesCurrent": 7603,
+  "timestamp": "8/27/2025, 12:35:10 PM"
+}
+[27/08/2025, 12:35:11] Curso: HTML e CSS Essencial - Front End Completo para Iniciantes
+[INFO] Quantidade de Vendas: 7603
+[INFO] Novas vendas: 5 em 2 dia(s) e 0hr(s) de diferença!
+[27/08/2025, 12:35:11] Dados salvos com sucesso em 'html_e_css_essencial___front_end_completo_para_iniciantes_sales_data.json'
+------------------------------------------------------------------
+[27/08/2025, 12:35:44] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[27/08/2025, 12:35:49] Dados coletados: {
+  "titleCurrent": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+  "salesCurrent": 1035,
+  "timestamp": "8/27/2025, 12:35:48 PM"
+}
+[27/08/2025, 12:35:49] Curso: HTML5 e CSS Aprendendo criar sites do zero na pratica
+[INFO] Quantidade de Vendas: 1035
+[INFO] Novas vendas: 2 em 0 dia(s) e 23hr(s) de diferença!
+[27/08/2025, 12:35:49] Dados salvos com sucesso em 'html5_e_css_aprendendo_criar_sites_do_zero_na_pratica_sales_data.json'
+------------------------------------------------------------------
+[27/08/2025, 12:35:53] Dados coletados: {
+  "titleCurrent": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+  "salesCurrent": 167823,
+  "timestamp": "8/27/2025, 12:35:53 PM"
+}
+[27/08/2025, 12:35:53] Curso: Desenvolvimento Web Completo - 20 cursos + 20 projetos
+[INFO] Quantidade de Vendas: 167823
+[INFO] Novas vendas: 37 em 2 dia(s) e 0hr(s) de diferença!
+[27/08/2025, 12:35:53] Dados salvos com sucesso em 'desenvolvimento_web_completo___20_cursos___20_projetos_sales_data.json'
+------------------------------------------------------------------
+[27/08/2025, 12:35:57] Dados coletados: {
+  "titleCurrent": "HTML & CSS: Do Zero ao Avançado – Crie Sites Profissionais!",
+  "salesCurrent": 62,
+  "timestamp": "8/27/2025, 12:35:56 PM"
+}
+[27/08/2025, 12:35:57] Curso: HTML & CSS: Do Zero ao Avançado – Crie Sites Profissionais!
+[INFO] Quantidade de Vendas: 62
+[INFO] Novas vendas: 1 em 0 dia(s) e 23hr(s) de diferença!
+[27/08/2025, 12:35:57] Dados salvos com sucesso em 'html___css__do_zero_ao_avan_ado___crie_sites_profissionais__sales_data.json'
+------------------------------------------------------------------
+[27/08/2025, 12:36:32] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[27/08/2025, 12:36:37] Dados coletados: {
+  "titleCurrent": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+  "salesCurrent": 90,
+  "timestamp": "8/27/2025, 12:36:37 PM"
+}
+[27/08/2025, 12:36:37] Curso: Crie sites do Zero: HTML, CSS e JavaScript na Prática
+[INFO] Quantidade de Vendas: 90
+[INFO] Novas vendas: 0 em 0 dia(s) e 23hr(s) de diferença!
+[27/08/2025, 12:36:37] Dados salvos com sucesso em 'crie_sites_do_zero__html__css_e_javascript_na_pr_tica_sales_data.json'
+------------------------------------------------------------------
+[27/08/2025, 12:36:43] Dados coletados: {
+  "titleCurrent": "Curso de Python 3 do básico ao avançado - com projetos reais",
+  "salesCurrent": 205855,
+  "timestamp": "8/27/2025, 12:36:43 PM"
+}
+[27/08/2025, 12:36:43] Curso: Curso de Python 3 do básico ao avançado - com projetos reais
+[INFO] Quantidade de Vendas: 205855
+[INFO] Novas vendas: 218 em 0 dia(s) e 23hr(s) de diferença!
+[27/08/2025, 12:36:43] Dados salvos com sucesso em 'curso_de_python_3_do_b_sico_ao_avan_ado___com_projetos_reais_sales_data.json'
+------------------------------------------------------------------
+[27/08/2025, 12:36:47] Dados coletados: {
+  "titleCurrent": "Bootcamp PYTHON e Inteligência Artificial: Do Zero ao Expert",
+  "salesCurrent": 39750,
+  "timestamp": "8/27/2025, 12:36:47 PM"
+}
+[27/08/2025, 12:36:47] Curso: Bootcamp PYTHON e Inteligência Artificial: Do Zero ao Expert
+[INFO] Quantidade de Vendas: 39750
+[INFO] Novas vendas: 39 em 2 dia(s) e 0hr(s) de diferença!
+[27/08/2025, 12:36:47] Dados salvos com sucesso em 'bootcamp_python_e_intelig_ncia_artificial__do_zero_ao_expert_sales_data.json'
+------------------------------------------------------------------
+[27/08/2025, 12:36:53] Dados coletados: {
+  "titleCurrent": "Python Desenvolvedor 2025 - Do Zero ao Avançado + Projetos",
+  "salesCurrent": 3188,
+  "timestamp": "8/27/2025, 12:36:53 PM"
+}
+[27/08/2025, 12:36:53] Curso: Python Desenvolvedor 2025 - Do Zero ao Avançado + Projetos
+[INFO] Quantidade de Vendas: 3188
+[INFO] Novas vendas: 15 em 0 dia(s) e 23hr(s) de diferença!
+[27/08/2025, 12:36:53] Dados salvos com sucesso em 'python_desenvolvedor_2025___do_zero_ao_avan_ado___projetos_sales_data.json'
+------------------------------------------------------------------
+[27/08/2025, 12:37:27] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[27/08/2025, 12:37:33] Dados coletados: {
+  "titleCurrent": "Programação em Python do básico ao avançado",
+  "salesCurrent": 110266,
+  "timestamp": "8/27/2025, 12:37:32 PM"
+}
+[27/08/2025, 12:37:33] Curso: Programação em Python do básico ao avançado
+[INFO] Quantidade de Vendas: 110266
+[INFO] Novas vendas: 17 em 2 dia(s) e 0hr(s) de diferença!
+[27/08/2025, 12:37:33] Dados salvos com sucesso em 'programa__o_em_python_do_b_sico_ao_avan_ado_sales_data.json'
+------------------------------------------------------------------
+[27/08/2025, 12:37:37] Dados coletados: {
+  "titleCurrent": "Introdução à Engenharia com Arduino",
+  "salesCurrent": 6045,
+  "timestamp": "8/27/2025, 12:37:37 PM"
+}
+[27/08/2025, 12:37:37] Curso: Introdução à Engenharia com Arduino
+[INFO] Quantidade de Vendas: 6045
+[INFO] Novas vendas: 1 em 0 dia(s) e 23hr(s) de diferença!
+[27/08/2025, 12:37:37] Dados salvos com sucesso em 'introdu__o___engenharia_com_arduino_sales_data.json'
+------------------------------------------------------------------

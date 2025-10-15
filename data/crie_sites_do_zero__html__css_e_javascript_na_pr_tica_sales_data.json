@@ -1,5 +1,5 @@
 {
-  "nextID": 5,
+  "nextID": 50,
   "data": [
     {
       "id": 1,
@@ -38,6 +38,501 @@
         "newSales": 2,
         "inDays": 1,
         "inHours": 0
+      }
+    },
+    {
+      "id": 5,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 66,
+      "timestamp": "7/16/2025, 12:34:03 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 6,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 66,
+      "timestamp": "7/17/2025, 12:34:00 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 7,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 66,
+      "timestamp": "7/18/2025, 12:33:55 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 8,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 68,
+      "timestamp": "7/21/2025, 12:33:52 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 2,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 9,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 68,
+      "timestamp": "7/22/2025, 12:33:53 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 10,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 69,
+      "timestamp": "7/23/2025, 12:39:15 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 11,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 70,
+      "timestamp": "7/24/2025, 12:33:54 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 12,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 70,
+      "timestamp": "7/25/2025, 12:33:59 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 13,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 72,
+      "timestamp": "7/26/2025, 12:33:50 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 14,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 72,
+      "timestamp": "7/27/2025, 12:33:52 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 15,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 72,
+      "timestamp": "7/28/2025, 12:34:34 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 16,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 73,
+      "timestamp": "7/29/2025, 12:32:31 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 17,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 73,
+      "timestamp": "7/30/2025, 12:33:51 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 18,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 74,
+      "timestamp": "7/31/2025, 12:32:05 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 19,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 74,
+      "timestamp": "8/1/2025, 12:33:59 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 20,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 75,
+      "timestamp": "8/4/2025, 12:33:57 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 2,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 21,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 76,
+      "timestamp": "8/5/2025, 12:33:56 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 22,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 76,
+      "timestamp": "8/6/2025, 12:34:07 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 23,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 76,
+      "timestamp": "8/7/2025, 12:33:51 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 24,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 76,
+      "timestamp": "8/8/2025, 12:33:56 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 25,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 79,
+      "timestamp": "8/11/2025, 12:33:55 PM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 2,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 26,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 79,
+      "timestamp": "8/12/2025, 12:34:02 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 27,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 81,
+      "timestamp": "8/13/2025, 12:34:06 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 28,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 82,
+      "timestamp": "8/14/2025, 12:32:18 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 29,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 83,
+      "timestamp": "8/15/2025, 12:34:00 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 30,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 83,
+      "timestamp": "8/16/2025, 12:34:19 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 31,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 82,
+      "timestamp": "8/18/2025, 12:34:20 PM",
+      "salesAmount": {
+        "newSales": -1,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 32,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 84,
+      "timestamp": "8/19/2025, 12:32:36 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 33,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 84,
+      "timestamp": "8/20/2025, 12:34:41 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 34,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 84,
+      "timestamp": "8/21/2025, 12:34:45 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 35,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 84,
+      "timestamp": "8/22/2025, 3:23:58 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 2
+      }
+    },
+    {
+      "id": 36,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 85,
+      "timestamp": "8/23/2025, 12:32:31 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 0,
+        "inHours": 21
+      }
+    },
+    {
+      "id": 37,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 87,
+      "timestamp": "8/25/2025, 12:33:27 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 38,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 90,
+      "timestamp": "8/26/2025, 12:37:42 PM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 39,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 90,
+      "timestamp": "8/27/2025, 12:36:37 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 40,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 90,
+      "timestamp": "8/28/2025, 12:40:09 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 41,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 91,
+      "timestamp": "9/1/2025, 12:36:34 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 3,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 42,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 91,
+      "timestamp": "9/3/2025, 12:40:59 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 43,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 91,
+      "timestamp": "9/4/2025, 12:39:04 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 44,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 91,
+      "timestamp": "9/5/2025, 12:41:20 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 45,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 91,
+      "timestamp": "9/6/2025, 12:38:19 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 46,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 92,
+      "timestamp": "9/9/2025, 12:41:43 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 3,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 47,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 94,
+      "timestamp": "9/13/2025, 12:38:43 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 3,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 48,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 94,
+      "timestamp": "9/16/2025, 12:39:49 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 3,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 49,
+      "titleCourse": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+      "salesQuantity": 96,
+      "timestamp": "9/17/2025, 12:38:05 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 0,
+        "inHours": 23
       }
     }
   ]

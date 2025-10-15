@@ -1,5 +1,5 @@
 {
-  "nextID": 13,
+  "nextID": 54,
   "data": [
     {
       "id": 1,
@@ -126,6 +126,457 @@
         "newSales": 3,
         "inDays": 1,
         "inHours": 0
+      }
+    },
+    {
+      "id": 13,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 21966,
+      "timestamp": "7/16/2025, 12:32:03 PM",
+      "salesAmount": {
+        "newSales": 10,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 14,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 21978,
+      "timestamp": "7/17/2025, 12:32:02 PM",
+      "salesAmount": {
+        "newSales": 12,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 15,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 21981,
+      "timestamp": "7/18/2025, 12:32:01 PM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 16,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 21994,
+      "timestamp": "7/21/2025, 12:31:58 PM",
+      "salesAmount": {
+        "newSales": 13,
+        "inDays": 2,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 17,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 22014,
+      "timestamp": "7/22/2025, 12:32:00 PM",
+      "salesAmount": {
+        "newSales": 20,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 18,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 22028,
+      "timestamp": "7/24/2025, 12:31:59 PM",
+      "salesAmount": {
+        "newSales": 14,
+        "inDays": 1,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 19,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 22041,
+      "timestamp": "7/25/2025, 12:32:04 PM",
+      "salesAmount": {
+        "newSales": 13,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 20,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 22044,
+      "timestamp": "7/26/2025, 12:31:56 PM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 21,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 22047,
+      "timestamp": "7/27/2025, 12:31:58 PM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 22,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 22049,
+      "timestamp": "7/28/2025, 12:31:59 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 23,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 22050,
+      "timestamp": "7/29/2025, 12:31:31 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 24,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 22058,
+      "timestamp": "7/30/2025, 12:31:57 PM",
+      "salesAmount": {
+        "newSales": 8,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 25,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 22067,
+      "timestamp": "7/31/2025, 12:31:05 PM",
+      "salesAmount": {
+        "newSales": 9,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 26,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 22073,
+      "timestamp": "8/1/2025, 12:32:02 PM",
+      "salesAmount": {
+        "newSales": 6,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 27,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 22083,
+      "timestamp": "8/4/2025, 12:32:06 PM",
+      "salesAmount": {
+        "newSales": 10,
+        "inDays": 3,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 28,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 22103,
+      "timestamp": "8/5/2025, 12:32:02 PM",
+      "salesAmount": {
+        "newSales": 20,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 29,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 22118,
+      "timestamp": "8/6/2025, 12:32:06 PM",
+      "salesAmount": {
+        "newSales": 15,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 30,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 22128,
+      "timestamp": "8/7/2025, 12:31:56 PM",
+      "salesAmount": {
+        "newSales": 10,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 31,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 22132,
+      "timestamp": "8/8/2025, 12:32:06 PM",
+      "salesAmount": {
+        "newSales": 4,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 32,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 22142,
+      "timestamp": "8/11/2025, 12:32:04 PM",
+      "salesAmount": {
+        "newSales": 10,
+        "inDays": 2,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 33,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 22145,
+      "timestamp": "8/12/2025, 12:32:07 PM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 34,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 22151,
+      "timestamp": "8/13/2025, 12:32:11 PM",
+      "salesAmount": {
+        "newSales": 6,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 35,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 22160,
+      "timestamp": "8/14/2025, 12:31:13 PM",
+      "salesAmount": {
+        "newSales": 9,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 36,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 22179,
+      "timestamp": "8/15/2025, 12:32:06 PM",
+      "salesAmount": {
+        "newSales": 19,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 37,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 22181,
+      "timestamp": "8/16/2025, 12:32:14 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 38,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 22182,
+      "timestamp": "8/18/2025, 12:32:14 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 39,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 22205,
+      "timestamp": "8/19/2025, 12:31:26 PM",
+      "salesAmount": {
+        "newSales": 23,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 40,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 22212,
+      "timestamp": "8/20/2025, 12:32:28 PM",
+      "salesAmount": {
+        "newSales": 7,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 41,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 22223,
+      "timestamp": "8/21/2025, 12:32:35 PM",
+      "salesAmount": {
+        "newSales": 11,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 42,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 22230,
+      "timestamp": "8/22/2025, 3:21:55 PM",
+      "salesAmount": {
+        "newSales": 7,
+        "inDays": 1,
+        "inHours": 2
+      }
+    },
+    {
+      "id": 43,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 22238,
+      "timestamp": "8/23/2025, 12:31:20 PM",
+      "salesAmount": {
+        "newSales": 8,
+        "inDays": 0,
+        "inHours": 21
+      }
+    },
+    {
+      "id": 44,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 22257,
+      "timestamp": "8/27/2025, 12:32:25 PM",
+      "salesAmount": {
+        "newSales": 19,
+        "inDays": 4,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 45,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 22260,
+      "timestamp": "8/28/2025, 12:35:05 PM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 46,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 22267,
+      "timestamp": "8/29/2025, 12:32:55 PM",
+      "salesAmount": {
+        "newSales": 7,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 47,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 22273,
+      "timestamp": "9/3/2025, 12:35:43 PM",
+      "salesAmount": {
+        "newSales": 6,
+        "inDays": 5,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 48,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 22279,
+      "timestamp": "9/4/2025, 12:33:49 PM",
+      "salesAmount": {
+        "newSales": 6,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 49,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 22289,
+      "timestamp": "9/6/2025, 12:33:58 PM",
+      "salesAmount": {
+        "newSales": 10,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 50,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 22298,
+      "timestamp": "9/9/2025, 12:35:35 PM",
+      "salesAmount": {
+        "newSales": 9,
+        "inDays": 3,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 51,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 22300,
+      "timestamp": "9/10/2025, 12:34:55 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 52,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 22318,
+      "timestamp": "9/12/2025, 12:34:25 PM",
+      "salesAmount": {
+        "newSales": 18,
+        "inDays": 1,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 53,
+      "titleCourse": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "salesQuantity": 22324,
+      "timestamp": "9/15/2025, 12:33:54 PM",
+      "salesAmount": {
+        "newSales": 6,
+        "inDays": 2,
+        "inHours": 23
       }
     }
   ]

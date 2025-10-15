@@ -1,11 +1,231 @@
 {
-  "nextID": 2,
+  "nextID": 22,
   "data": [
     {
       "id": 1,
       "titleCourse": "Curso JavaScript Completo – Do Básico ao Avançado + Projetos",
       "salesQuantity": 905,
       "timestamp": "7/15/2025, 12:31:25 PM"
+    },
+    {
+      "id": 2,
+      "titleCourse": "Curso JavaScript Completo – Do Básico ao Avançado + Projetos",
+      "salesQuantity": 907,
+      "timestamp": "7/16/2025, 12:31:27 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 3,
+      "titleCourse": "Curso JavaScript Completo – Do Básico ao Avançado + Projetos",
+      "salesQuantity": 908,
+      "timestamp": "7/17/2025, 12:31:27 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 4,
+      "titleCourse": "Curso JavaScript Completo – Do Básico ao Avançado + Projetos",
+      "salesQuantity": 908,
+      "timestamp": "7/18/2025, 12:31:26 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 5,
+      "titleCourse": "Curso JavaScript Completo – Do Básico ao Avançado + Projetos",
+      "salesQuantity": 909,
+      "timestamp": "7/21/2025, 12:31:25 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 2,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 6,
+      "titleCourse": "Curso JavaScript Completo – Do Básico ao Avançado + Projetos",
+      "salesQuantity": 910,
+      "timestamp": "7/22/2025, 12:31:26 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 7,
+      "titleCourse": "Curso JavaScript Completo – Do Básico ao Avançado + Projetos",
+      "salesQuantity": 912,
+      "timestamp": "7/24/2025, 12:31:26 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 8,
+      "titleCourse": "Curso JavaScript Completo – Do Básico ao Avançado + Projetos",
+      "salesQuantity": 913,
+      "timestamp": "7/25/2025, 12:31:30 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 9,
+      "titleCourse": "Curso JavaScript Completo – Do Básico ao Avançado + Projetos",
+      "salesQuantity": 914,
+      "timestamp": "7/26/2025, 12:31:22 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 10,
+      "titleCourse": "Curso JavaScript Completo – Do Básico ao Avançado + Projetos",
+      "salesQuantity": 915,
+      "timestamp": "7/27/2025, 12:31:24 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 11,
+      "titleCourse": "Curso JavaScript Completo – Do Básico ao Avançado + Projetos",
+      "salesQuantity": 915,
+      "timestamp": "7/28/2025, 12:31:25 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 12,
+      "titleCourse": "Curso JavaScript Completo – Do Básico ao Avançado + Projetos",
+      "salesQuantity": 919,
+      "timestamp": "7/29/2025, 12:31:13 PM",
+      "salesAmount": {
+        "newSales": 4,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 13,
+      "titleCourse": "Curso JavaScript Completo – Do Básico ao Avançado + Projetos",
+      "salesQuantity": 921,
+      "timestamp": "7/30/2025, 12:31:25 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 14,
+      "titleCourse": "Curso JavaScript Completo – Do Básico ao Avançado + Projetos",
+      "salesQuantity": 922,
+      "timestamp": "7/31/2025, 12:30:47 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 15,
+      "titleCourse": "Curso JavaScript Completo – Do Básico ao Avançado + Projetos",
+      "salesQuantity": 924,
+      "timestamp": "8/1/2025, 12:31:28 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 16,
+      "titleCourse": "Curso JavaScript Completo – Do Básico ao Avançado + Projetos",
+      "salesQuantity": 929,
+      "timestamp": "8/4/2025, 12:31:33 PM",
+      "salesAmount": {
+        "newSales": 5,
+        "inDays": 3,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 17,
+      "titleCourse": "Curso JavaScript Completo – Do Básico ao Avançado + Projetos",
+      "salesQuantity": 934,
+      "timestamp": "8/5/2025, 12:31:26 PM",
+      "salesAmount": {
+        "newSales": 5,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 18,
+      "titleCourse": "Curso JavaScript Completo – Do Básico ao Avançado + Projetos",
+      "salesQuantity": 936,
+      "timestamp": "8/6/2025, 12:31:30 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 19,
+      "titleCourse": "Curso JavaScript Completo – Do Básico ao Avançado + Projetos",
+      "salesQuantity": 942,
+      "timestamp": "8/7/2025, 12:31:23 PM",
+      "salesAmount": {
+        "newSales": 6,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 20,
+      "titleCourse": "Curso JavaScript Completo – Do Básico ao Avançado + Projetos",
+      "salesQuantity": 943,
+      "timestamp": "8/8/2025, 12:31:25 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 21,
+      "titleCourse": "Curso JavaScript Completo – Do Básico ao Avançado + Projetos",
+      "salesQuantity": 944,
+      "timestamp": "8/11/2025, 12:31:24 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 2,
+        "inHours": 23
+      }
     }
   ]
 }

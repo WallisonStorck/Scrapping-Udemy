@@ -1,5 +1,5 @@
 {
-  "nextID": 5,
+  "nextID": 8,
   "data": [
     {
       "id": 1,
@@ -38,6 +38,39 @@
         "newSales": 3,
         "inDays": 1,
         "inHours": 0
+      }
+    },
+    {
+      "id": 5,
+      "titleCourse": "PYTHON 2025: Curso de Python Básico ao Avançado (+PROJETOS)",
+      "salesQuantity": 774,
+      "timestamp": "7/16/2025, 12:34:44 PM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 6,
+      "titleCourse": "PYTHON 2025: Curso de Python Básico ao Avançado (+PROJETOS)",
+      "salesQuantity": 774,
+      "timestamp": "7/17/2025, 12:34:40 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 7,
+      "titleCourse": "PYTHON 2025: Curso de Python Básico ao Avançado (+PROJETOS)",
+      "salesQuantity": 774,
+      "timestamp": "7/18/2025, 12:34:35 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 23
       }
     }
   ]

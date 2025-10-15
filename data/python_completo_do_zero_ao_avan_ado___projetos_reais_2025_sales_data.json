@@ -1,5 +1,5 @@
 {
-  "nextID": 5,
+  "nextID": 10,
   "data": [
     {
       "id": 1,
@@ -36,6 +36,61 @@
       "timestamp": "7/15/2025, 12:34:10 PM",
       "salesAmount": {
         "newSales": 24,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 5,
+      "titleCourse": "Python Completo do Zero ao Avançado + Projetos Reais 2025",
+      "salesQuantity": 38986,
+      "timestamp": "7/16/2025, 12:34:19 PM",
+      "salesAmount": {
+        "newSales": 36,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 6,
+      "titleCourse": "Python Completo do Zero ao Avançado + Projetos Reais 2025",
+      "salesQuantity": 39022,
+      "timestamp": "7/17/2025, 12:34:16 PM",
+      "salesAmount": {
+        "newSales": 36,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 7,
+      "titleCourse": "Python Completo do Zero ao Avançado + Projetos Reais 2025",
+      "salesQuantity": 39047,
+      "timestamp": "7/18/2025, 12:34:12 PM",
+      "salesAmount": {
+        "newSales": 25,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 8,
+      "titleCourse": "Python Completo do Zero ao Avançado + Projetos Reais 2025",
+      "salesQuantity": 39083,
+      "timestamp": "7/21/2025, 12:34:08 PM",
+      "salesAmount": {
+        "newSales": 36,
+        "inDays": 2,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 9,
+      "titleCourse": "Python Completo do Zero ao Avançado + Projetos Reais 2025",
+      "salesQuantity": 39098,
+      "timestamp": "7/22/2025, 12:34:09 PM",
+      "salesAmount": {
+        "newSales": 15,
         "inDays": 1,
         "inHours": 0
       }

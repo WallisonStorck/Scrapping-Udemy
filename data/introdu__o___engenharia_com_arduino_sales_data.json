@@ -1,0 +1,429 @@
+{
+  "nextID": 40,
+  "data": [
+    {
+      "id": 1,
+      "titleCourse": "Introdução à Engenharia com Arduino",
+      "salesQuantity": 6040,
+      "timestamp": "8/22/2025, 3:25:27 PM"
+    },
+    {
+      "id": 2,
+      "titleCourse": "Introdução à Engenharia com Arduino",
+      "salesQuantity": 6040,
+      "timestamp": "8/23/2025, 12:33:34 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 21
+      }
+    },
+    {
+      "id": 3,
+      "titleCourse": "Introdução à Engenharia com Arduino",
+      "salesQuantity": 6043,
+      "timestamp": "8/25/2025, 12:34:02 PM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 4,
+      "titleCourse": "Introdução à Engenharia com Arduino",
+      "salesQuantity": 6044,
+      "timestamp": "8/26/2025, 12:39:45 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 5,
+      "titleCourse": "Introdução à Engenharia com Arduino",
+      "salesQuantity": 6045,
+      "timestamp": "8/27/2025, 12:37:37 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 6,
+      "titleCourse": "Introdução à Engenharia com Arduino",
+      "salesQuantity": 6054,
+      "timestamp": "8/28/2025, 12:42:36 PM",
+      "salesAmount": {
+        "newSales": 9,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 7,
+      "titleCourse": "Introdução à Engenharia com Arduino",
+      "salesQuantity": 6057,
+      "timestamp": "8/29/2025, 12:40:14 PM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 8,
+      "titleCourse": "Introdução à Engenharia com Arduino",
+      "salesQuantity": 6059,
+      "timestamp": "9/1/2025, 12:37:36 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 2,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 9,
+      "titleCourse": "Introdução à Engenharia com Arduino",
+      "salesQuantity": 6061,
+      "timestamp": "9/2/2025, 12:40:15 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 10,
+      "titleCourse": "Introdução à Engenharia com Arduino",
+      "salesQuantity": 6064,
+      "timestamp": "9/3/2025, 12:42:21 PM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 11,
+      "titleCourse": "Introdução à Engenharia com Arduino",
+      "salesQuantity": 6065,
+      "timestamp": "9/4/2025, 12:40:33 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 12,
+      "titleCourse": "Introdução à Engenharia com Arduino",
+      "salesQuantity": 6066,
+      "timestamp": "9/5/2025, 12:43:01 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 13,
+      "titleCourse": "Introdução à Engenharia com Arduino",
+      "salesQuantity": 6067,
+      "timestamp": "9/6/2025, 12:40:21 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 14,
+      "titleCourse": "Introdução à Engenharia com Arduino",
+      "salesQuantity": 6071,
+      "timestamp": "9/8/2025, 12:40:03 PM",
+      "salesAmount": {
+        "newSales": 4,
+        "inDays": 1,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 15,
+      "titleCourse": "Introdução à Engenharia com Arduino",
+      "salesQuantity": 6075,
+      "timestamp": "9/9/2025, 12:44:18 PM",
+      "salesAmount": {
+        "newSales": 4,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 16,
+      "titleCourse": "Introdução à Engenharia com Arduino",
+      "salesQuantity": 6077,
+      "timestamp": "9/10/2025, 12:44:07 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 17,
+      "titleCourse": "Introdução à Engenharia com Arduino",
+      "salesQuantity": 6079,
+      "timestamp": "9/11/2025, 12:41:48 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 18,
+      "titleCourse": "Introdução à Engenharia com Arduino",
+      "salesQuantity": 6081,
+      "timestamp": "9/12/2025, 12:40:41 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 19,
+      "titleCourse": "Introdução à Engenharia com Arduino",
+      "salesQuantity": 6082,
+      "timestamp": "9/13/2025, 12:41:36 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 20,
+      "titleCourse": "Introdução à Engenharia com Arduino",
+      "salesQuantity": 6085,
+      "timestamp": "9/15/2025, 12:39:50 PM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 1,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 21,
+      "titleCourse": "Introdução à Engenharia com Arduino",
+      "salesQuantity": 6089,
+      "timestamp": "9/16/2025, 12:41:21 PM",
+      "salesAmount": {
+        "newSales": 4,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 22,
+      "titleCourse": "Introdução à Engenharia com Arduino",
+      "salesQuantity": 6091,
+      "timestamp": "9/17/2025, 12:39:28 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 23,
+      "titleCourse": "Introdução à Engenharia com Arduino",
+      "salesQuantity": 6091,
+      "timestamp": "9/18/2025, 12:49:25 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 24,
+      "titleCourse": "Introdução à Engenharia com Arduino",
+      "salesQuantity": 6095,
+      "timestamp": "9/19/2025, 12:48:45 PM",
+      "salesAmount": {
+        "newSales": 4,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 25,
+      "titleCourse": "Introdução à Engenharia com Arduino",
+      "salesQuantity": 6096,
+      "timestamp": "9/22/2025, 12:46:30 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 2,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 26,
+      "titleCourse": "Introdução à Engenharia com Arduino",
+      "salesQuantity": 6099,
+      "timestamp": "9/23/2025, 12:49:17 PM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 27,
+      "titleCourse": "Introdução à Engenharia com Arduino",
+      "salesQuantity": 6101,
+      "timestamp": "9/24/2025, 12:46:38 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 28,
+      "titleCourse": "Introdução à Engenharia com Arduino",
+      "salesQuantity": 6101,
+      "timestamp": "9/25/2025, 12:48:49 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 29,
+      "titleCourse": "Introdução à Engenharia com Arduino",
+      "salesQuantity": 6104,
+      "timestamp": "9/26/2025, 12:48:46 PM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 30,
+      "titleCourse": "Introdução à Engenharia com Arduino",
+      "salesQuantity": 6105,
+      "timestamp": "9/27/2025, 12:48:49 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 31,
+      "titleCourse": "Introdução à Engenharia com Arduino",
+      "salesQuantity": 6105,
+      "timestamp": "9/29/2025, 12:48:46 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 32,
+      "titleCourse": "Introdução à Engenharia com Arduino",
+      "salesQuantity": 6106,
+      "timestamp": "9/30/2025, 12:46:32 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 33,
+      "titleCourse": "Introdução à Engenharia com Arduino",
+      "salesQuantity": 6106,
+      "timestamp": "10/1/2025, 12:48:41 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 34,
+      "titleCourse": "Introdução à Engenharia com Arduino",
+      "salesQuantity": 6108,
+      "timestamp": "10/2/2025, 12:48:53 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 35,
+      "titleCourse": "Introdução à Engenharia com Arduino",
+      "salesQuantity": 6109,
+      "timestamp": "10/3/2025, 12:49:12 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 36,
+      "titleCourse": "Introdução à Engenharia com Arduino",
+      "salesQuantity": 6112,
+      "timestamp": "10/6/2025, 12:49:01 PM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 2,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 37,
+      "titleCourse": "Introdução à Engenharia com Arduino",
+      "salesQuantity": 6114,
+      "timestamp": "10/7/2025, 12:48:52 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 38,
+      "titleCourse": "Introdução à Engenharia com Arduino",
+      "salesQuantity": 6117,
+      "timestamp": "10/8/2025, 12:48:56 PM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 39,
+      "titleCourse": "Introdução à Engenharia com Arduino",
+      "salesQuantity": 6117,
+      "timestamp": "10/9/2025, 12:48:50 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 23
+      }
+    }
+  ]
+}

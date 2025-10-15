@@ -1,5 +1,5 @@
 {
-  "nextID": 5,
+  "nextID": 49,
   "data": [
     {
       "id": 1,
@@ -38,6 +38,490 @@
         "newSales": 12,
         "inDays": 1,
         "inHours": 0
+      }
+    },
+    {
+      "id": 5,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 166933,
+      "timestamp": "7/16/2025, 12:33:38 PM",
+      "salesAmount": {
+        "newSales": 32,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 6,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 166974,
+      "timestamp": "7/17/2025, 12:33:35 PM",
+      "salesAmount": {
+        "newSales": 41,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 7,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 167021,
+      "timestamp": "7/18/2025, 12:33:32 PM",
+      "salesAmount": {
+        "newSales": 47,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 8,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 167051,
+      "timestamp": "7/21/2025, 12:33:29 PM",
+      "salesAmount": {
+        "newSales": 30,
+        "inDays": 2,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 9,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 167066,
+      "timestamp": "7/22/2025, 12:33:30 PM",
+      "salesAmount": {
+        "newSales": 15,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 10,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 167104,
+      "timestamp": "7/23/2025, 12:38:51 PM",
+      "salesAmount": {
+        "newSales": 38,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 11,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 167114,
+      "timestamp": "7/24/2025, 12:33:30 PM",
+      "salesAmount": {
+        "newSales": 10,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 12,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 167145,
+      "timestamp": "7/25/2025, 12:33:35 PM",
+      "salesAmount": {
+        "newSales": 31,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 13,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 167167,
+      "timestamp": "7/26/2025, 12:33:27 PM",
+      "salesAmount": {
+        "newSales": 22,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 14,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 167174,
+      "timestamp": "7/27/2025, 12:33:29 PM",
+      "salesAmount": {
+        "newSales": 7,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 15,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 167186,
+      "timestamp": "7/28/2025, 12:34:10 PM",
+      "salesAmount": {
+        "newSales": 12,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 16,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 167201,
+      "timestamp": "7/29/2025, 12:32:20 PM",
+      "salesAmount": {
+        "newSales": 15,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 17,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 167209,
+      "timestamp": "7/30/2025, 12:33:28 PM",
+      "salesAmount": {
+        "newSales": 8,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 18,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 167229,
+      "timestamp": "7/31/2025, 12:31:54 PM",
+      "salesAmount": {
+        "newSales": 20,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 19,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 167265,
+      "timestamp": "8/1/2025, 12:33:36 PM",
+      "salesAmount": {
+        "newSales": 36,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 20,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 167299,
+      "timestamp": "8/4/2025, 12:33:35 PM",
+      "salesAmount": {
+        "newSales": 34,
+        "inDays": 2,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 21,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 167326,
+      "timestamp": "8/5/2025, 12:33:33 PM",
+      "salesAmount": {
+        "newSales": 27,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 22,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 167359,
+      "timestamp": "8/6/2025, 12:33:43 PM",
+      "salesAmount": {
+        "newSales": 33,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 23,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 167398,
+      "timestamp": "8/7/2025, 12:33:28 PM",
+      "salesAmount": {
+        "newSales": 39,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 24,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 167409,
+      "timestamp": "8/8/2025, 12:33:34 PM",
+      "salesAmount": {
+        "newSales": 11,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 25,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 167463,
+      "timestamp": "8/11/2025, 12:33:33 PM",
+      "salesAmount": {
+        "newSales": 54,
+        "inDays": 2,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 26,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 167476,
+      "timestamp": "8/12/2025, 12:33:38 PM",
+      "salesAmount": {
+        "newSales": 13,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 27,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 167490,
+      "timestamp": "8/13/2025, 12:33:42 PM",
+      "salesAmount": {
+        "newSales": 14,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 28,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 167542,
+      "timestamp": "8/14/2025, 12:32:05 PM",
+      "salesAmount": {
+        "newSales": 52,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 29,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 167604,
+      "timestamp": "8/15/2025, 12:33:36 PM",
+      "salesAmount": {
+        "newSales": 62,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 30,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 167617,
+      "timestamp": "8/16/2025, 12:33:53 PM",
+      "salesAmount": {
+        "newSales": 13,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 31,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 167630,
+      "timestamp": "8/18/2025, 12:33:55 PM",
+      "salesAmount": {
+        "newSales": 13,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 32,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 167644,
+      "timestamp": "8/19/2025, 12:32:22 PM",
+      "salesAmount": {
+        "newSales": 14,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 33,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 167677,
+      "timestamp": "8/20/2025, 12:34:16 PM",
+      "salesAmount": {
+        "newSales": 33,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 34,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 167712,
+      "timestamp": "8/21/2025, 12:34:18 PM",
+      "salesAmount": {
+        "newSales": 35,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 35,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 167741,
+      "timestamp": "8/22/2025, 3:23:32 PM",
+      "salesAmount": {
+        "newSales": 29,
+        "inDays": 1,
+        "inHours": 2
+      }
+    },
+    {
+      "id": 36,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 167774,
+      "timestamp": "8/23/2025, 12:32:17 PM",
+      "salesAmount": {
+        "newSales": 33,
+        "inDays": 0,
+        "inHours": 21
+      }
+    },
+    {
+      "id": 37,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 167786,
+      "timestamp": "8/25/2025, 12:33:10 PM",
+      "salesAmount": {
+        "newSales": 12,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 38,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 167823,
+      "timestamp": "8/27/2025, 12:35:53 PM",
+      "salesAmount": {
+        "newSales": 37,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 39,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 167850,
+      "timestamp": "8/28/2025, 12:39:44 PM",
+      "salesAmount": {
+        "newSales": 27,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 40,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 167893,
+      "timestamp": "9/1/2025, 12:36:20 PM",
+      "salesAmount": {
+        "newSales": 43,
+        "inDays": 3,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 41,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 167902,
+      "timestamp": "9/2/2025, 12:37:19 PM",
+      "salesAmount": {
+        "newSales": 9,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 42,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 167927,
+      "timestamp": "9/4/2025, 12:38:21 PM",
+      "salesAmount": {
+        "newSales": 25,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 43,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 167968,
+      "timestamp": "9/8/2025, 12:37:48 PM",
+      "salesAmount": {
+        "newSales": 41,
+        "inDays": 3,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 44,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 168025,
+      "timestamp": "9/10/2025, 12:39:59 PM",
+      "salesAmount": {
+        "newSales": 57,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 45,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 168085,
+      "timestamp": "9/12/2025, 12:36:57 PM",
+      "salesAmount": {
+        "newSales": 60,
+        "inDays": 1,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 46,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 168109,
+      "timestamp": "9/15/2025, 12:37:03 PM",
+      "salesAmount": {
+        "newSales": 24,
+        "inDays": 3,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 47,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 168130,
+      "timestamp": "9/16/2025, 12:39:34 PM",
+      "salesAmount": {
+        "newSales": 21,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 48,
+      "titleCourse": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+      "salesQuantity": 168154,
+      "timestamp": "9/17/2025, 12:37:38 PM",
+      "salesAmount": {
+        "newSales": 24,
+        "inDays": 0,
+        "inHours": 23
       }
     }
   ]

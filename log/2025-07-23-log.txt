@@ -1,0 +1,240 @@
+==================================
+Log File - 2025-07-23
+Created at: 23/07/2025, 12:30:02
+==================================
+
+[23/07/2025, 12:30:02] 
+[23/07/2025, 12:30:02] ****** Iniciando scrapping... ******
+[23/07/2025, 12:30:02] 
+[23/07/2025, 12:30:33] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[23/07/2025, 12:31:04] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[23/07/2025, 12:31:35] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[23/07/2025, 12:32:05] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[23/07/2025, 12:32:36] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[23/07/2025, 12:33:07] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[23/07/2025, 12:33:37] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[23/07/2025, 12:34:08] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[23/07/2025, 12:34:38] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[23/07/2025, 12:35:09] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[23/07/2025, 12:35:40] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[23/07/2025, 12:36:10] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[23/07/2025, 12:36:41] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[23/07/2025, 12:37:11] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[23/07/2025, 12:37:27] Dados coletados: {
+  "titleCurrent": "React Js do zero ao avançado na pratica",
+  "salesCurrent": 14610,
+  "timestamp": "7/23/2025, 12:37:27 PM"
+}
+[23/07/2025, 12:37:27] Curso: React Js do zero ao avançado na pratica
+[INFO] Quantidade de Vendas: 14610
+[INFO] Novas vendas: 2 em 1 dia(s) e 0hr(s) de diferença!
+[23/07/2025, 12:37:27] Dados salvos com sucesso em 'react_js_do_zero_ao_avan_ado_na_pratica_sales_data.json'
+------------------------------------------------------------------
+[23/07/2025, 12:37:36] Dados coletados: {
+  "titleCurrent": "Curso Web Moderno Completo com JavaScript + Projetos",
+  "salesCurrent": 150434,
+  "timestamp": "7/23/2025, 12:37:35 PM"
+}
+[23/07/2025, 12:37:36] Curso: Curso Web Moderno Completo com JavaScript + Projetos
+[INFO] Quantidade de Vendas: 150434
+[INFO] Novas vendas: 16 em 1 dia(s) e 0hr(s) de diferença!
+[23/07/2025, 12:37:36] Dados salvos com sucesso em 'curso_web_moderno_completo_com_javascript___projetos_sales_data.json'
+------------------------------------------------------------------
+[23/07/2025, 12:37:44] Dados coletados: {
+  "titleCurrent": "React do Zero a Maestria (c/ hooks, router, API, Projetos)",
+  "salesCurrent": 23796,
+  "timestamp": "7/23/2025, 12:37:44 PM"
+}
+[23/07/2025, 12:37:44] Curso: React do Zero a Maestria (c/ hooks, router, API, Projetos)
+[INFO] Quantidade de Vendas: 23796
+[INFO] Novas vendas: 14 em 1 dia(s) e 0hr(s) de diferença!
+[23/07/2025, 12:37:44] Dados salvos com sucesso em 'react_do_zero_a_maestria__c__hooks__router__api__projetos__sales_data.json'
+------------------------------------------------------------------
+[23/07/2025, 12:37:52] Dados coletados: {
+  "titleCurrent": "Curso React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!",
+  "salesCurrent": 41370,
+  "timestamp": "7/23/2025, 12:37:52 PM"
+}
+[23/07/2025, 12:37:52] Curso: Curso React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!
+[INFO] Quantidade de Vendas: 41370
+[INFO] Novas vendas: 1 em 1 dia(s) e 0hr(s) de diferença!
+[23/07/2025, 12:37:52] Dados salvos com sucesso em 'curso_react___redux__fundamentos_e_2_apps_do_absoluto_zero__sales_data.json'
+------------------------------------------------------------------
+[23/07/2025, 12:38:00] Dados coletados: {
+  "titleCurrent": "Curso de React JS 19 e Next.js 15 (atualizado para 2025)",
+  "salesCurrent": 26800,
+  "timestamp": "7/23/2025, 12:38:00 PM"
+}
+[23/07/2025, 12:38:00] Curso: Curso de React JS 19 e Next.js 15 (atualizado para 2025)
+[INFO] Quantidade de Vendas: 26800
+[INFO] Novas vendas: 39 em 1 dia(s) e 0hr(s) de diferença!
+[23/07/2025, 12:38:00] Dados salvos com sucesso em 'curso_de_react_js_19_e_next_js_15__atualizado_para_2025__sales_data.json'
+------------------------------------------------------------------
+[23/07/2025, 12:38:11] Dados coletados: {
+  "titleCurrent": "Curso do FIGMA ao código. O design da interface web completo",
+  "salesCurrent": 3714,
+  "timestamp": "7/23/2025, 12:38:11 PM"
+}
+[23/07/2025, 12:38:11] Curso: Curso do FIGMA ao código. O design da interface web completo
+[INFO] Quantidade de Vendas: 3714
+[INFO] Novas vendas: 6 em 1 dia(s) e 0hr(s) de diferença!
+[23/07/2025, 12:38:11] Dados salvos com sucesso em 'curso_do_figma_ao_c_digo__o_design_da_interface_web_completo_sales_data.json'
+------------------------------------------------------------------
+[23/07/2025, 12:38:20] Dados coletados: {
+  "titleCurrent": "HTML e CSS: O Início (incluindo 5 Projetos)",
+  "salesCurrent": 5879,
+  "timestamp": "7/23/2025, 12:38:19 PM"
+}
+[23/07/2025, 12:38:20] Curso: HTML e CSS: O Início (incluindo 5 Projetos)
+[INFO] Quantidade de Vendas: 5879
+[INFO] Novas vendas: 1 em 1 dia(s) e 0hr(s) de diferença!
+[23/07/2025, 12:38:20] Dados salvos com sucesso em 'html_e_css__o_in_cio__incluindo_5_projetos__sales_data.json'
+------------------------------------------------------------------
+[23/07/2025, 12:38:28] Dados coletados: {
+  "titleCurrent": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+  "salesCurrent": 7554,
+  "timestamp": "7/23/2025, 12:38:28 PM"
+}
+[23/07/2025, 12:38:28] Curso: HTML e CSS Essencial - Front End Completo para Iniciantes
+[INFO] Quantidade de Vendas: 7554
+[INFO] Novas vendas: 1 em 1 dia(s) e 0hr(s) de diferença!
+[23/07/2025, 12:38:28] Dados salvos com sucesso em 'html_e_css_essencial___front_end_completo_para_iniciantes_sales_data.json'
+------------------------------------------------------------------
+[23/07/2025, 12:38:36] Dados coletados: {
+  "titleCurrent": "Web Frontend Completo: HTML, CSS, JS, TS, React e Next 2025",
+  "salesCurrent": 2560,
+  "timestamp": "7/23/2025, 12:38:36 PM"
+}
+[23/07/2025, 12:38:36] Curso: Web Frontend Completo: HTML, CSS, JS, TS, React e Next 2025
+[INFO] Quantidade de Vendas: 2560
+[INFO] Novas vendas: 12 em 1 dia(s) e 0hr(s) de diferença!
+[23/07/2025, 12:38:36] Dados salvos com sucesso em 'web_frontend_completo__html__css__js__ts__react_e_next_2025_sales_data.json'
+------------------------------------------------------------------
+[23/07/2025, 12:38:44] Dados coletados: {
+  "titleCurrent": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+  "salesCurrent": 1008,
+  "timestamp": "7/23/2025, 12:38:44 PM"
+}
+[23/07/2025, 12:38:44] Curso: HTML5 e CSS Aprendendo criar sites do zero na pratica
+[INFO] Quantidade de Vendas: 1008
+[INFO] Novas vendas: 0 em 1 dia(s) e 0hr(s) de diferença!
+[23/07/2025, 12:38:44] Dados salvos com sucesso em 'html5_e_css_aprendendo_criar_sites_do_zero_na_pratica_sales_data.json'
+------------------------------------------------------------------
+[23/07/2025, 12:38:52] Dados coletados: {
+  "titleCurrent": "Desenvolvimento Web Completo - 20 cursos + 20 projetos",
+  "salesCurrent": 167104,
+  "timestamp": "7/23/2025, 12:38:51 PM"
+}
+[23/07/2025, 12:38:52] Curso: Desenvolvimento Web Completo - 20 cursos + 20 projetos
+[INFO] Quantidade de Vendas: 167104
+[INFO] Novas vendas: 38 em 1 dia(s) e 0hr(s) de diferença!
+[23/07/2025, 12:38:52] Dados salvos com sucesso em 'desenvolvimento_web_completo___20_cursos___20_projetos_sales_data.json'
+------------------------------------------------------------------
+[23/07/2025, 12:38:59] Dados coletados: {
+  "titleCurrent": "HTML & CSS: Do Zero ao Avançado – Crie Sites Profissionais!",
+  "salesCurrent": 48,
+  "timestamp": "7/23/2025, 12:38:59 PM"
+}
+[23/07/2025, 12:38:59] Curso: HTML & CSS: Do Zero ao Avançado – Crie Sites Profissionais!
+[INFO] Quantidade de Vendas: 48
+[INFO] Novas vendas: 0 em 1 dia(s) e 0hr(s) de diferença!
+[23/07/2025, 12:38:59] Dados salvos com sucesso em 'html___css__do_zero_ao_avan_ado___crie_sites_profissionais__sales_data.json'
+------------------------------------------------------------------
+[23/07/2025, 12:39:07] Dados coletados: {
+  "titleCurrent": "HTML5 Completo",
+  "salesCurrent": 1180,
+  "timestamp": "7/23/2025, 12:39:07 PM"
+}
+[23/07/2025, 12:39:07] Curso: HTML5 Completo
+[INFO] Quantidade de Vendas: 1180
+[INFO] Novas vendas: 0 em 1 dia(s) e 0hr(s) de diferença!
+[23/07/2025, 12:39:07] Dados salvos com sucesso em 'html5_completo_sales_data.json'
+------------------------------------------------------------------
+[23/07/2025, 12:39:15] Dados coletados: {
+  "titleCurrent": "Crie sites do Zero: HTML, CSS e JavaScript na Prática",
+  "salesCurrent": 69,
+  "timestamp": "7/23/2025, 12:39:15 PM"
+}
+[23/07/2025, 12:39:15] Curso: Crie sites do Zero: HTML, CSS e JavaScript na Prática
+[INFO] Quantidade de Vendas: 69
+[INFO] Novas vendas: 1 em 1 dia(s) e 0hr(s) de diferença!
+[23/07/2025, 12:39:15] Dados salvos com sucesso em 'crie_sites_do_zero__html__css_e_javascript_na_pr_tica_sales_data.json'
+------------------------------------------------------------------
+[23/07/2025, 12:39:23] Dados coletados: {
+  "titleCurrent": "Curso de Python 3 do básico ao avançado - com projetos reais",
+  "salesCurrent": 201776,
+  "timestamp": "7/23/2025, 12:39:23 PM"
+}
+[23/07/2025, 12:39:23] Curso: Curso de Python 3 do básico ao avançado - com projetos reais
+[INFO] Quantidade de Vendas: 201776
+[INFO] Novas vendas: 179 em 1 dia(s) e 0hr(s) de diferença!
+[23/07/2025, 12:39:23] Dados salvos com sucesso em 'curso_de_python_3_do_b_sico_ao_avan_ado___com_projetos_reais_sales_data.json'
+------------------------------------------------------------------
+[23/07/2025, 12:39:31] Dados coletados: {
+  "titleCurrent": "Bootcamp PYTHON e Inteligência Artificial: Do Zero ao Expert",
+  "salesCurrent": 39143,
+  "timestamp": "7/23/2025, 12:39:31 PM"
+}
+[23/07/2025, 12:39:31] Arquivo 'data\bootcamp_python_e_intelig_ncia_artificial__do_zero_ao_expert_sales_data.json' criado com sucesso!
+[23/07/2025, 12:39:31] ---------------------------------------------
+[23/07/2025, 12:39:40] Dados coletados: {
+  "titleCurrent": "Python Desenvolvedor 2025 - Do Zero ao Avançado + Projetos",
+  "salesCurrent": 2869,
+  "timestamp": "7/23/2025, 12:39:40 PM"
+}
+[23/07/2025, 12:39:40] Curso: Python Desenvolvedor 2025 - Do Zero ao Avançado + Projetos
+[INFO] Quantidade de Vendas: 2869
+[INFO] Novas vendas: 9 em 1 dia(s) e 0hr(s) de diferença!
+[23/07/2025, 12:39:40] Dados salvos com sucesso em 'python_desenvolvedor_2025___do_zero_ao_avan_ado___projetos_sales_data.json'
+------------------------------------------------------------------
+[23/07/2025, 12:39:48] Dados coletados: {
+  "titleCurrent": "Python Básico ao Avançado + RPA + Criação de Projetos Reais",
+  "salesCurrent": 12419,
+  "timestamp": "7/23/2025, 12:39:48 PM"
+}
+[23/07/2025, 12:39:48] Curso: Python Básico ao Avançado + RPA + Criação de Projetos Reais
+[INFO] Quantidade de Vendas: 12419
+[INFO] Novas vendas: 23 em 1 dia(s) e 0hr(s) de diferença!
+[23/07/2025, 12:39:48] Dados salvos com sucesso em 'python_b_sico_ao_avan_ado___rpa___cria__o_de_projetos_reais_sales_data.json'
+------------------------------------------------------------------
+[23/07/2025, 12:40:26] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[23/07/2025, 12:40:34] Dados coletados: {
+  "titleCurrent": "Programação em Python do básico ao avançado",
+  "salesCurrent": 109933,
+  "timestamp": "7/23/2025, 12:40:34 PM"
+}
+[23/07/2025, 12:40:34] Curso: Programação em Python do básico ao avançado
+[INFO] Quantidade de Vendas: 109933
+[INFO] Novas vendas: 10 em 1 dia(s) e 0hr(s) de diferença!
+[23/07/2025, 12:40:34] Dados salvos com sucesso em 'programa__o_em_python_do_b_sico_ao_avan_ado_sales_data.json'
+------------------------------------------------------------------

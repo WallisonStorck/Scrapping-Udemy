@@ -1,5 +1,5 @@
 {
-  "nextID": 21,
+  "nextID": 63,
   "data": [
     {
       "id": 1,
@@ -202,6 +202,468 @@
         "newSales": 1,
         "inDays": 1,
         "inHours": 0
+      }
+    },
+    {
+      "id": 21,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7549,
+      "timestamp": "7/16/2025, 12:33:14 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 22,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7549,
+      "timestamp": "7/17/2025, 12:33:10 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 23,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7552,
+      "timestamp": "7/18/2025, 12:33:08 PM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 24,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7552,
+      "timestamp": "7/21/2025, 12:33:06 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 2,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 25,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7553,
+      "timestamp": "7/22/2025, 12:33:07 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 26,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7554,
+      "timestamp": "7/23/2025, 12:38:28 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 27,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7555,
+      "timestamp": "7/24/2025, 12:33:07 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 28,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7557,
+      "timestamp": "7/25/2025, 12:33:12 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 29,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7557,
+      "timestamp": "7/26/2025, 12:33:04 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 30,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7558,
+      "timestamp": "7/27/2025, 12:33:06 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 31,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7558,
+      "timestamp": "7/28/2025, 12:33:35 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 32,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7560,
+      "timestamp": "7/29/2025, 12:32:07 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 33,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7562,
+      "timestamp": "7/30/2025, 12:33:04 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 34,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7563,
+      "timestamp": "7/31/2025, 12:31:42 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 35,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7565,
+      "timestamp": "8/1/2025, 12:33:09 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 36,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7567,
+      "timestamp": "8/4/2025, 12:33:11 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 3,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 37,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7569,
+      "timestamp": "8/5/2025, 12:33:09 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 38,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7571,
+      "timestamp": "8/6/2025, 12:33:19 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 39,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7572,
+      "timestamp": "8/7/2025, 12:33:05 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 40,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7574,
+      "timestamp": "8/8/2025, 12:33:11 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 41,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7578,
+      "timestamp": "8/11/2025, 12:33:10 PM",
+      "salesAmount": {
+        "newSales": 4,
+        "inDays": 2,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 42,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7578,
+      "timestamp": "8/12/2025, 12:33:14 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 43,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7578,
+      "timestamp": "8/13/2025, 12:33:19 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 44,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7583,
+      "timestamp": "8/14/2025, 12:31:52 PM",
+      "salesAmount": {
+        "newSales": 5,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 45,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7586,
+      "timestamp": "8/15/2025, 12:33:13 PM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 46,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7588,
+      "timestamp": "8/16/2025, 12:33:27 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 47,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7589,
+      "timestamp": "8/18/2025, 12:33:29 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 48,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7590,
+      "timestamp": "8/19/2025, 12:32:06 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 49,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7592,
+      "timestamp": "8/20/2025, 12:33:48 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 50,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7594,
+      "timestamp": "8/21/2025, 12:33:53 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 51,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7597,
+      "timestamp": "8/22/2025, 3:23:07 PM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 1,
+        "inHours": 2
+      }
+    },
+    {
+      "id": 52,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7598,
+      "timestamp": "8/23/2025, 12:32:02 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 0,
+        "inHours": 21
+      }
+    },
+    {
+      "id": 53,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7598,
+      "timestamp": "8/25/2025, 12:32:52 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 54,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7603,
+      "timestamp": "8/27/2025, 12:35:10 PM",
+      "salesAmount": {
+        "newSales": 5,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 55,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7607,
+      "timestamp": "8/29/2025, 12:36:12 PM",
+      "salesAmount": {
+        "newSales": 4,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 56,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7610,
+      "timestamp": "9/1/2025, 12:35:35 PM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 2,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 57,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7612,
+      "timestamp": "9/2/2025, 12:35:50 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 58,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7613,
+      "timestamp": "9/3/2025, 12:39:07 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 59,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7615,
+      "timestamp": "9/4/2025, 12:37:04 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 60,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7625,
+      "timestamp": "9/12/2025, 12:35:42 PM",
+      "salesAmount": {
+        "newSales": 10,
+        "inDays": 7,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 61,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7625,
+      "timestamp": "9/13/2025, 12:36:49 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 62,
+      "titleCourse": "HTML e CSS Essencial - Front End Completo para Iniciantes",
+      "salesQuantity": 7630,
+      "timestamp": "9/17/2025, 12:36:40 PM",
+      "salesAmount": {
+        "newSales": 5,
+        "inDays": 3,
+        "inHours": 23
       }
     }
   ]

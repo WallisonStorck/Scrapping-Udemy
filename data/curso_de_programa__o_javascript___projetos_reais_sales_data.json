@@ -1,11 +1,231 @@
 {
-  "nextID": 2,
+  "nextID": 22,
   "data": [
     {
       "id": 1,
       "titleCourse": "Curso de Programação JAVASCRIPT + Projetos Reais",
       "salesQuantity": 8919,
       "timestamp": "7/15/2025, 12:31:16 PM"
+    },
+    {
+      "id": 2,
+      "titleCourse": "Curso de Programação JAVASCRIPT + Projetos Reais",
+      "salesQuantity": 8941,
+      "timestamp": "7/16/2025, 12:31:18 PM",
+      "salesAmount": {
+        "newSales": 22,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 3,
+      "titleCourse": "Curso de Programação JAVASCRIPT + Projetos Reais",
+      "salesQuantity": 8947,
+      "timestamp": "7/17/2025, 12:31:19 PM",
+      "salesAmount": {
+        "newSales": 6,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 4,
+      "titleCourse": "Curso de Programação JAVASCRIPT + Projetos Reais",
+      "salesQuantity": 8948,
+      "timestamp": "7/18/2025, 12:31:17 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 5,
+      "titleCourse": "Curso de Programação JAVASCRIPT + Projetos Reais",
+      "salesQuantity": 8950,
+      "timestamp": "7/21/2025, 12:31:17 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 3,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 6,
+      "titleCourse": "Curso de Programação JAVASCRIPT + Projetos Reais",
+      "salesQuantity": 8953,
+      "timestamp": "7/22/2025, 12:31:16 PM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 7,
+      "titleCourse": "Curso de Programação JAVASCRIPT + Projetos Reais",
+      "salesQuantity": 8959,
+      "timestamp": "7/24/2025, 12:31:17 PM",
+      "salesAmount": {
+        "newSales": 6,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 8,
+      "titleCourse": "Curso de Programação JAVASCRIPT + Projetos Reais",
+      "salesQuantity": 8963,
+      "timestamp": "7/25/2025, 12:31:22 PM",
+      "salesAmount": {
+        "newSales": 4,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 9,
+      "titleCourse": "Curso de Programação JAVASCRIPT + Projetos Reais",
+      "salesQuantity": 8963,
+      "timestamp": "7/26/2025, 12:31:14 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 10,
+      "titleCourse": "Curso de Programação JAVASCRIPT + Projetos Reais",
+      "salesQuantity": 8963,
+      "timestamp": "7/27/2025, 12:31:15 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 11,
+      "titleCourse": "Curso de Programação JAVASCRIPT + Projetos Reais",
+      "salesQuantity": 8976,
+      "timestamp": "7/28/2025, 12:31:16 PM",
+      "salesAmount": {
+        "newSales": 13,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 12,
+      "titleCourse": "Curso de Programação JAVASCRIPT + Projetos Reais",
+      "salesQuantity": 8980,
+      "timestamp": "7/29/2025, 12:31:08 PM",
+      "salesAmount": {
+        "newSales": 4,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 13,
+      "titleCourse": "Curso de Programação JAVASCRIPT + Projetos Reais",
+      "salesQuantity": 8983,
+      "timestamp": "7/30/2025, 12:31:16 PM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 14,
+      "titleCourse": "Curso de Programação JAVASCRIPT + Projetos Reais",
+      "salesQuantity": 8988,
+      "timestamp": "7/31/2025, 12:30:43 PM",
+      "salesAmount": {
+        "newSales": 5,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 15,
+      "titleCourse": "Curso de Programação JAVASCRIPT + Projetos Reais",
+      "salesQuantity": 8993,
+      "timestamp": "8/1/2025, 12:31:19 PM",
+      "salesAmount": {
+        "newSales": 5,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 16,
+      "titleCourse": "Curso de Programação JAVASCRIPT + Projetos Reais",
+      "salesQuantity": 8997,
+      "timestamp": "8/4/2025, 12:31:24 PM",
+      "salesAmount": {
+        "newSales": 4,
+        "inDays": 3,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 17,
+      "titleCourse": "Curso de Programação JAVASCRIPT + Projetos Reais",
+      "salesQuantity": 9003,
+      "timestamp": "8/5/2025, 12:31:17 PM",
+      "salesAmount": {
+        "newSales": 6,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 18,
+      "titleCourse": "Curso de Programação JAVASCRIPT + Projetos Reais",
+      "salesQuantity": 9004,
+      "timestamp": "8/6/2025, 12:31:21 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 19,
+      "titleCourse": "Curso de Programação JAVASCRIPT + Projetos Reais",
+      "salesQuantity": 9008,
+      "timestamp": "8/7/2025, 12:31:15 PM",
+      "salesAmount": {
+        "newSales": 4,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 20,
+      "titleCourse": "Curso de Programação JAVASCRIPT + Projetos Reais",
+      "salesQuantity": 9012,
+      "timestamp": "8/8/2025, 12:31:16 PM",
+      "salesAmount": {
+        "newSales": 4,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 21,
+      "titleCourse": "Curso de Programação JAVASCRIPT + Projetos Reais",
+      "salesQuantity": 9028,
+      "timestamp": "8/11/2025, 12:31:16 PM",
+      "salesAmount": {
+        "newSales": 16,
+        "inDays": 3,
+        "inHours": 0
+      }
     }
   ]
 }

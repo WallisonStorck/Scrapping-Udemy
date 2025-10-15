@@ -1,5 +1,5 @@
 {
-  "nextID": 21,
+  "nextID": 62,
   "data": [
     {
       "id": 1,
@@ -198,6 +198,457 @@
       "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
       "salesQuantity": 999,
       "timestamp": "7/15/2025, 12:33:23 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 21,
+      "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "salesQuantity": 1001,
+      "timestamp": "7/16/2025, 12:33:30 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 22,
+      "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "salesQuantity": 1003,
+      "timestamp": "7/17/2025, 12:33:27 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 23,
+      "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "salesQuantity": 1006,
+      "timestamp": "7/18/2025, 12:33:24 PM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 24,
+      "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "salesQuantity": 1009,
+      "timestamp": "7/21/2025, 12:33:21 PM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 2,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 25,
+      "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "salesQuantity": 1008,
+      "timestamp": "7/22/2025, 12:33:22 PM",
+      "salesAmount": {
+        "newSales": -1,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 26,
+      "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "salesQuantity": 1008,
+      "timestamp": "7/23/2025, 12:38:44 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 27,
+      "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "salesQuantity": 1008,
+      "timestamp": "7/24/2025, 12:33:22 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 28,
+      "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "salesQuantity": 1009,
+      "timestamp": "7/25/2025, 12:33:28 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 29,
+      "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "salesQuantity": 1009,
+      "timestamp": "7/26/2025, 12:33:19 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 30,
+      "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "salesQuantity": 1009,
+      "timestamp": "7/27/2025, 12:33:21 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 31,
+      "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "salesQuantity": 1009,
+      "timestamp": "7/28/2025, 12:34:00 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 32,
+      "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "salesQuantity": 1010,
+      "timestamp": "7/29/2025, 12:32:16 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 33,
+      "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "salesQuantity": 1011,
+      "timestamp": "7/30/2025, 12:33:21 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 34,
+      "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "salesQuantity": 1011,
+      "timestamp": "7/31/2025, 12:31:50 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 35,
+      "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "salesQuantity": 1012,
+      "timestamp": "8/1/2025, 12:33:27 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 36,
+      "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "salesQuantity": 1014,
+      "timestamp": "8/4/2025, 12:33:27 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 3,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 37,
+      "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "salesQuantity": 1016,
+      "timestamp": "8/5/2025, 12:33:25 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 38,
+      "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "salesQuantity": 1017,
+      "timestamp": "8/6/2025, 12:33:35 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 39,
+      "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "salesQuantity": 1018,
+      "timestamp": "8/7/2025, 12:33:21 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 40,
+      "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "salesQuantity": 1019,
+      "timestamp": "8/8/2025, 12:33:27 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 41,
+      "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "salesQuantity": 1020,
+      "timestamp": "8/11/2025, 12:33:25 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 2,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 42,
+      "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "salesQuantity": 1021,
+      "timestamp": "8/12/2025, 12:33:31 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 43,
+      "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "salesQuantity": 1023,
+      "timestamp": "8/13/2025, 12:33:34 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 44,
+      "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "salesQuantity": 1023,
+      "timestamp": "8/14/2025, 12:32:01 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 45,
+      "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "salesQuantity": 1023,
+      "timestamp": "8/15/2025, 12:33:28 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 46,
+      "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "salesQuantity": 1023,
+      "timestamp": "8/16/2025, 12:33:45 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 47,
+      "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "salesQuantity": 1023,
+      "timestamp": "8/18/2025, 12:33:46 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 48,
+      "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "salesQuantity": 1026,
+      "timestamp": "8/19/2025, 12:32:16 PM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 49,
+      "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "salesQuantity": 1028,
+      "timestamp": "8/20/2025, 12:34:08 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 50,
+      "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "salesQuantity": 1029,
+      "timestamp": "8/21/2025, 12:34:09 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 51,
+      "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "salesQuantity": 1029,
+      "timestamp": "8/22/2025, 3:23:24 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 2
+      }
+    },
+    {
+      "id": 52,
+      "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "salesQuantity": 1029,
+      "timestamp": "8/23/2025, 12:32:13 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 21
+      }
+    },
+    {
+      "id": 53,
+      "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "salesQuantity": 1032,
+      "timestamp": "8/25/2025, 12:33:03 PM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 54,
+      "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "salesQuantity": 1033,
+      "timestamp": "8/26/2025, 12:36:53 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 55,
+      "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "salesQuantity": 1035,
+      "timestamp": "8/27/2025, 12:35:48 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 56,
+      "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "salesQuantity": 1036,
+      "timestamp": "8/28/2025, 12:39:36 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 57,
+      "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "salesQuantity": 1036,
+      "timestamp": "9/5/2025, 12:39:25 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 7,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 58,
+      "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "salesQuantity": 1036,
+      "timestamp": "9/8/2025, 12:37:42 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 2,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 59,
+      "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "salesQuantity": 1041,
+      "timestamp": "9/9/2025, 12:40:30 PM",
+      "salesAmount": {
+        "newSales": 5,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 60,
+      "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "salesQuantity": 1044,
+      "timestamp": "9/15/2025, 12:36:58 PM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 5,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 61,
+      "titleCourse": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "salesQuantity": 1046,
+      "timestamp": "9/16/2025, 12:39:29 PM",
       "salesAmount": {
         "newSales": 2,
         "inDays": 1,

@@ -1,0 +1,169 @@
+==================================
+Log File - 2025-10-08
+Created at: 08/10/2025, 12:30:02
+==================================
+
+[08/10/2025, 12:30:01] 
+[08/10/2025, 12:30:02] ****** Iniciando scrapping... ******
+[08/10/2025, 12:30:02] 
+[08/10/2025, 12:30:12] Dados coletados: {
+  "titleCurrent": "Como Criar Cursos Online de Sucesso 2022 - Intermediário",
+  "salesCurrent": 43,
+  "timestamp": "10/8/2025, 12:30:11 PM"
+}
+[08/10/2025, 12:30:12] Curso: Como Criar Cursos Online de Sucesso 2022 - Intermediário
+[INFO] Quantidade de Vendas: 43
+[INFO] Novas vendas: 0 em 1 dia(s) e 0hr(s) de diferença!
+[08/10/2025, 12:30:12] Dados salvos com sucesso em 'como_criar_cursos_online_de_sucesso_2022___intermedi_rio_sales_data.json'
+------------------------------------------------------------------
+[08/10/2025, 12:30:20] Dados coletados: {
+  "titleCurrent": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+  "salesCurrent": 1239,
+  "timestamp": "10/8/2025, 12:30:20 PM"
+}
+[08/10/2025, 12:30:20] Curso: Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1
+[INFO] Quantidade de Vendas: 1239
+[INFO] Novas vendas: 0 em 1 dia(s) e 0hr(s) de diferença!
+[08/10/2025, 12:30:20] Dados salvos com sucesso em 'como_criar_cursos_online_de_sucesso_2024___3_cursos_em_1_sales_data.json'
+------------------------------------------------------------------
+[08/10/2025, 12:30:58] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[08/10/2025, 12:31:06] Dados coletados: {
+  "titleCurrent": "Aprenda Como Criar seu Curso Online do Zero a Primeira Venda",
+  "salesCurrent": 99,
+  "timestamp": "10/8/2025, 12:31:06 PM"
+}
+[08/10/2025, 12:31:06] Curso: Aprenda Como Criar seu Curso Online do Zero a Primeira Venda
+[INFO] Quantidade de Vendas: 99
+[INFO] Novas vendas: 0 em 0 dia(s) e 23hr(s) de diferença!
+[08/10/2025, 12:31:06] Dados salvos com sucesso em 'aprenda_como_criar_seu_curso_online_do_zero_a_primeira_venda_sales_data.json'
+------------------------------------------------------------------
+[08/10/2025, 12:31:15] Dados coletados: {
+  "titleCurrent": "Como criar um curso online de sucesso (passo a passo)",
+  "salesCurrent": 6592,
+  "timestamp": "10/8/2025, 12:31:15 PM"
+}
+[08/10/2025, 12:31:15] Curso: Como criar um curso online de sucesso (passo a passo)
+[INFO] Quantidade de Vendas: 6592
+[INFO] Novas vendas: 0 em 0 dia(s) e 23hr(s) de diferença!
+[08/10/2025, 12:31:15] Dados salvos com sucesso em 'como_criar_um_curso_online_de_sucesso__passo_a_passo__sales_data.json'
+------------------------------------------------------------------
+[08/10/2025, 12:31:28] Dados coletados: {
+  "titleCurrent": "Como Criar Um Curso Online Do Zero",
+  "salesCurrent": 787,
+  "timestamp": "10/8/2025, 12:31:28 PM"
+}
+[08/10/2025, 12:31:28] Curso: Como Criar Um Curso Online Do Zero
+[INFO] Quantidade de Vendas: 787
+[INFO] Novas vendas: 0 em 1 dia(s) e 0hr(s) de diferença!
+[08/10/2025, 12:31:28] Dados salvos com sucesso em 'como_criar_um_curso_online_do_zero_sales_data.json'
+------------------------------------------------------------------
+[08/10/2025, 12:31:36] Dados coletados: {
+  "titleCurrent": "Como criar um curso online em 7 dias (Passo a passo)",
+  "salesCurrent": 68,
+  "timestamp": "10/8/2025, 12:31:36 PM"
+}
+[08/10/2025, 12:31:36] Curso: Como criar um curso online em 7 dias (Passo a passo)
+[INFO] Quantidade de Vendas: 68
+[INFO] Novas vendas: 0 em 1 dia(s) e 0hr(s) de diferença!
+[08/10/2025, 12:31:36] Dados salvos com sucesso em 'como_criar_um_curso_online_em_7_dias__passo_a_passo__sales_data.json'
+------------------------------------------------------------------
+[08/10/2025, 12:32:15] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[08/10/2025, 12:32:56] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[08/10/2025, 12:33:39] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[08/10/2025, 12:34:20] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[08/10/2025, 12:34:58] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[08/10/2025, 12:35:38] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[08/10/2025, 12:36:17] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[08/10/2025, 12:36:57] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[08/10/2025, 12:37:37] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[08/10/2025, 12:38:16] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[08/10/2025, 12:38:58] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[08/10/2025, 12:39:38] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[08/10/2025, 12:40:16] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[08/10/2025, 12:40:55] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[08/10/2025, 12:41:35] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[08/10/2025, 12:42:15] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[08/10/2025, 12:42:53] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[08/10/2025, 12:43:31] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[08/10/2025, 12:44:09] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[08/10/2025, 12:44:17] Dados coletados: {
+  "titleCurrent": "HTML & CSS: Do Zero ao Avançado – Crie Sites Profissionais!",
+  "salesCurrent": 75,
+  "timestamp": "10/8/2025, 12:44:17 PM"
+}
+[08/10/2025, 12:44:17] Curso: HTML & CSS: Do Zero ao Avançado – Crie Sites Profissionais!
+[INFO] Quantidade de Vendas: 75
+[INFO] Novas vendas: 0 em 1 dia(s) e 0hr(s) de diferença!
+[08/10/2025, 12:44:17] Dados salvos com sucesso em 'html___css__do_zero_ao_avan_ado___crie_sites_profissionais__sales_data.json'
+------------------------------------------------------------------
+[08/10/2025, 12:44:56] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[08/10/2025, 12:45:34] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[08/10/2025, 12:46:12] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[08/10/2025, 12:46:51] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[08/10/2025, 12:47:29] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[08/10/2025, 12:48:07] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[08/10/2025, 12:48:47] Erro ao buscar os seletores: {
+  "name": "TimeoutError"
+}
+[08/10/2025, 12:48:56] Dados coletados: {
+  "titleCurrent": "Introdução à Engenharia com Arduino",
+  "salesCurrent": 6117,
+  "timestamp": "10/8/2025, 12:48:56 PM"
+}
+[08/10/2025, 12:48:56] Curso: Introdução à Engenharia com Arduino
+[INFO] Quantidade de Vendas: 6117
+[INFO] Novas vendas: 3 em 1 dia(s) e 0hr(s) de diferença!
+[08/10/2025, 12:48:56] Dados salvos com sucesso em 'introdu__o___engenharia_com_arduino_sales_data.json'
+------------------------------------------------------------------

@@ -1,5 +1,5 @@
 {
-  "nextID": 15,
+  "nextID": 54,
   "data": [
     {
       "id": 1,
@@ -148,6 +148,435 @@
         "newSales": 29,
         "inDays": 1,
         "inHours": 0
+      }
+    },
+    {
+      "id": 15,
+      "titleCourse": "Curso de JavaScript e TypeScript do básico ao avançado JS/TS",
+      "salesQuantity": 106188,
+      "timestamp": "7/16/2025, 12:31:36 PM",
+      "salesAmount": {
+        "newSales": 67,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 16,
+      "titleCourse": "Curso de JavaScript e TypeScript do básico ao avançado JS/TS",
+      "salesQuantity": 106240,
+      "timestamp": "7/17/2025, 12:31:35 PM",
+      "salesAmount": {
+        "newSales": 52,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 17,
+      "titleCourse": "Curso de JavaScript e TypeScript do básico ao avançado JS/TS",
+      "salesQuantity": 106290,
+      "timestamp": "7/18/2025, 12:31:35 PM",
+      "salesAmount": {
+        "newSales": 50,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 18,
+      "titleCourse": "Curso de JavaScript e TypeScript do básico ao avançado JS/TS",
+      "salesQuantity": 106334,
+      "timestamp": "7/21/2025, 12:31:33 PM",
+      "salesAmount": {
+        "newSales": 44,
+        "inDays": 2,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 19,
+      "titleCourse": "Curso de JavaScript e TypeScript do básico ao avançado JS/TS",
+      "salesQuantity": 106356,
+      "timestamp": "7/22/2025, 12:31:34 PM",
+      "salesAmount": {
+        "newSales": 22,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 20,
+      "titleCourse": "Curso de JavaScript e TypeScript do básico ao avançado JS/TS",
+      "salesQuantity": 106432,
+      "timestamp": "7/24/2025, 12:31:34 PM",
+      "salesAmount": {
+        "newSales": 76,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 21,
+      "titleCourse": "Curso de JavaScript e TypeScript do básico ao avançado JS/TS",
+      "salesQuantity": 106476,
+      "timestamp": "7/25/2025, 12:31:38 PM",
+      "salesAmount": {
+        "newSales": 44,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 22,
+      "titleCourse": "Curso de JavaScript e TypeScript do básico ao avançado JS/TS",
+      "salesQuantity": 106524,
+      "timestamp": "7/26/2025, 12:31:31 PM",
+      "salesAmount": {
+        "newSales": 48,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 23,
+      "titleCourse": "Curso de JavaScript e TypeScript do básico ao avançado JS/TS",
+      "salesQuantity": 106531,
+      "timestamp": "7/27/2025, 12:31:32 PM",
+      "salesAmount": {
+        "newSales": 7,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 24,
+      "titleCourse": "Curso de JavaScript e TypeScript do básico ao avançado JS/TS",
+      "salesQuantity": 106539,
+      "timestamp": "7/28/2025, 12:31:34 PM",
+      "salesAmount": {
+        "newSales": 8,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 25,
+      "titleCourse": "Curso de JavaScript e TypeScript do básico ao avançado JS/TS",
+      "salesQuantity": 106561,
+      "timestamp": "7/29/2025, 12:31:17 PM",
+      "salesAmount": {
+        "newSales": 22,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 26,
+      "titleCourse": "Curso de JavaScript e TypeScript do básico ao avançado JS/TS",
+      "salesQuantity": 106579,
+      "timestamp": "7/30/2025, 12:31:33 PM",
+      "salesAmount": {
+        "newSales": 18,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 27,
+      "titleCourse": "Curso de JavaScript e TypeScript do básico ao avançado JS/TS",
+      "salesQuantity": 106631,
+      "timestamp": "7/31/2025, 12:30:52 PM",
+      "salesAmount": {
+        "newSales": 52,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 28,
+      "titleCourse": "Curso de JavaScript e TypeScript do básico ao avançado JS/TS",
+      "salesQuantity": 106690,
+      "timestamp": "8/1/2025, 12:31:37 PM",
+      "salesAmount": {
+        "newSales": 59,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 29,
+      "titleCourse": "Curso de JavaScript e TypeScript do básico ao avançado JS/TS",
+      "salesQuantity": 106761,
+      "timestamp": "8/4/2025, 12:31:41 PM",
+      "salesAmount": {
+        "newSales": 71,
+        "inDays": 3,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 30,
+      "titleCourse": "Curso de JavaScript e TypeScript do básico ao avançado JS/TS",
+      "salesQuantity": 106811,
+      "timestamp": "8/5/2025, 12:31:34 PM",
+      "salesAmount": {
+        "newSales": 50,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 31,
+      "titleCourse": "Curso de JavaScript e TypeScript do básico ao avançado JS/TS",
+      "salesQuantity": 106872,
+      "timestamp": "8/6/2025, 12:31:39 PM",
+      "salesAmount": {
+        "newSales": 61,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 32,
+      "titleCourse": "Curso de JavaScript e TypeScript do básico ao avançado JS/TS",
+      "salesQuantity": 106934,
+      "timestamp": "8/7/2025, 12:31:31 PM",
+      "salesAmount": {
+        "newSales": 62,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 33,
+      "titleCourse": "Curso de JavaScript e TypeScript do básico ao avançado JS/TS",
+      "salesQuantity": 106953,
+      "timestamp": "8/8/2025, 12:31:33 PM",
+      "salesAmount": {
+        "newSales": 19,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 34,
+      "titleCourse": "Curso de JavaScript e TypeScript do básico ao avançado JS/TS",
+      "salesQuantity": 107011,
+      "timestamp": "8/11/2025, 12:31:32 PM",
+      "salesAmount": {
+        "newSales": 58,
+        "inDays": 2,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 35,
+      "titleCourse": "Curso de JavaScript e TypeScript do básico ao avançado JS/TS",
+      "salesQuantity": 107036,
+      "timestamp": "8/12/2025, 12:31:33 PM",
+      "salesAmount": {
+        "newSales": 25,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 36,
+      "titleCourse": "Curso de JavaScript e TypeScript do básico ao avançado JS/TS",
+      "salesQuantity": 107058,
+      "timestamp": "8/13/2025, 12:31:33 PM",
+      "salesAmount": {
+        "newSales": 22,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 37,
+      "titleCourse": "Curso de JavaScript e TypeScript do básico ao avançado JS/TS",
+      "salesQuantity": 107132,
+      "timestamp": "8/14/2025, 12:30:54 PM",
+      "salesAmount": {
+        "newSales": 74,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 38,
+      "titleCourse": "Curso de JavaScript e TypeScript do básico ao avançado JS/TS",
+      "salesQuantity": 107189,
+      "timestamp": "8/15/2025, 12:31:33 PM",
+      "salesAmount": {
+        "newSales": 57,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 39,
+      "titleCourse": "Curso de JavaScript e TypeScript do básico ao avançado JS/TS",
+      "salesQuantity": 107205,
+      "timestamp": "8/16/2025, 12:31:37 PM",
+      "salesAmount": {
+        "newSales": 16,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 40,
+      "titleCourse": "Curso de JavaScript e TypeScript do básico ao avançado JS/TS",
+      "salesQuantity": 107223,
+      "timestamp": "8/18/2025, 12:31:40 PM",
+      "salesAmount": {
+        "newSales": 18,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 41,
+      "titleCourse": "Curso de JavaScript e TypeScript do básico ao avançado JS/TS",
+      "salesQuantity": 107254,
+      "timestamp": "8/19/2025, 12:31:02 PM",
+      "salesAmount": {
+        "newSales": 31,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 42,
+      "titleCourse": "Curso de JavaScript e TypeScript do básico ao avançado JS/TS",
+      "salesQuantity": 107323,
+      "timestamp": "8/20/2025, 12:31:46 PM",
+      "salesAmount": {
+        "newSales": 69,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 43,
+      "titleCourse": "Curso de JavaScript e TypeScript do básico ao avançado JS/TS",
+      "salesQuantity": 107384,
+      "timestamp": "8/21/2025, 12:31:54 PM",
+      "salesAmount": {
+        "newSales": 61,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 44,
+      "titleCourse": "Curso de JavaScript e TypeScript do básico ao avançado JS/TS",
+      "salesQuantity": 107440,
+      "timestamp": "8/22/2025, 3:21:14 PM",
+      "salesAmount": {
+        "newSales": 56,
+        "inDays": 1,
+        "inHours": 2
+      }
+    },
+    {
+      "id": 45,
+      "titleCourse": "Curso de JavaScript e TypeScript do básico ao avançado JS/TS",
+      "salesQuantity": 107492,
+      "timestamp": "8/23/2025, 12:30:58 PM",
+      "salesAmount": {
+        "newSales": 52,
+        "inDays": 0,
+        "inHours": 21
+      }
+    },
+    {
+      "id": 46,
+      "titleCourse": "Curso de JavaScript e TypeScript do básico ao avançado JS/TS",
+      "salesQuantity": 107512,
+      "timestamp": "8/25/2025, 12:31:11 PM",
+      "salesAmount": {
+        "newSales": 20,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 47,
+      "titleCourse": "Curso de JavaScript e TypeScript do básico ao avançado JS/TS",
+      "salesQuantity": 108607,
+      "timestamp": "8/27/2025, 12:31:34 PM",
+      "salesAmount": {
+        "newSales": 1095,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 48,
+      "titleCourse": "Curso de JavaScript e TypeScript do básico ao avançado JS/TS",
+      "salesQuantity": 108747,
+      "timestamp": "8/29/2025, 12:32:03 PM",
+      "salesAmount": {
+        "newSales": 140,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 49,
+      "titleCourse": "Curso de JavaScript e TypeScript do básico ao avançado JS/TS",
+      "salesQuantity": 108819,
+      "timestamp": "9/2/2025, 12:31:46 PM",
+      "salesAmount": {
+        "newSales": 72,
+        "inDays": 3,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 50,
+      "titleCourse": "Curso de JavaScript e TypeScript do básico ao avançado JS/TS",
+      "salesQuantity": 108874,
+      "timestamp": "9/4/2025, 12:31:58 PM",
+      "salesAmount": {
+        "newSales": 55,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 51,
+      "titleCourse": "Curso de JavaScript e TypeScript do básico ao avançado JS/TS",
+      "salesQuantity": 109090,
+      "timestamp": "9/10/2025, 12:33:34 PM",
+      "salesAmount": {
+        "newSales": 216,
+        "inDays": 6,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 52,
+      "titleCourse": "Curso de JavaScript e TypeScript do básico ao avançado JS/TS",
+      "salesQuantity": 109256,
+      "timestamp": "9/13/2025, 12:32:16 PM",
+      "salesAmount": {
+        "newSales": 166,
+        "inDays": 2,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 53,
+      "titleCourse": "Curso de JavaScript e TypeScript do básico ao avançado JS/TS",
+      "salesQuantity": 109405,
+      "timestamp": "9/17/2025, 12:32:13 PM",
+      "salesAmount": {
+        "newSales": 149,
+        "inDays": 3,
+        "inHours": 23
       }
     }
   ]

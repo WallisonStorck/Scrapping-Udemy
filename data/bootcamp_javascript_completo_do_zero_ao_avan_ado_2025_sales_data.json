@@ -1,0 +1,264 @@
+{
+  "nextID": 25,
+  "data": [
+    {
+      "id": 1,
+      "titleCourse": "Bootcamp JAVASCRIPT Completo Do Zero ao Avançado 2025",
+      "salesQuantity": 943,
+      "timestamp": "8/12/2025, 12:31:24 PM"
+    },
+    {
+      "id": 2,
+      "titleCourse": "Bootcamp JAVASCRIPT Completo Do Zero ao Avançado 2025",
+      "salesQuantity": 946,
+      "timestamp": "8/13/2025, 12:31:24 PM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 3,
+      "titleCourse": "Bootcamp JAVASCRIPT Completo Do Zero ao Avançado 2025",
+      "salesQuantity": 947,
+      "timestamp": "8/14/2025, 12:30:50 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 4,
+      "titleCourse": "Bootcamp JAVASCRIPT Completo Do Zero ao Avançado 2025",
+      "salesQuantity": 949,
+      "timestamp": "8/15/2025, 12:31:25 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 5,
+      "titleCourse": "Bootcamp JAVASCRIPT Completo Do Zero ao Avançado 2025",
+      "salesQuantity": 949,
+      "timestamp": "8/16/2025, 12:31:28 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 6,
+      "titleCourse": "Bootcamp JAVASCRIPT Completo Do Zero ao Avançado 2025",
+      "salesQuantity": 951,
+      "timestamp": "8/18/2025, 12:31:32 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 7,
+      "titleCourse": "Bootcamp JAVASCRIPT Completo Do Zero ao Avançado 2025",
+      "salesQuantity": 952,
+      "timestamp": "8/19/2025, 12:30:57 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 8,
+      "titleCourse": "Bootcamp JAVASCRIPT Completo Do Zero ao Avançado 2025",
+      "salesQuantity": 954,
+      "timestamp": "8/20/2025, 12:31:36 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 9,
+      "titleCourse": "Bootcamp JAVASCRIPT Completo Do Zero ao Avançado 2025",
+      "salesQuantity": 956,
+      "timestamp": "8/21/2025, 12:31:44 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 10,
+      "titleCourse": "Bootcamp JAVASCRIPT Completo Do Zero ao Avançado 2025",
+      "salesQuantity": 959,
+      "timestamp": "8/22/2025, 3:21:05 PM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 1,
+        "inHours": 2
+      }
+    },
+    {
+      "id": 11,
+      "titleCourse": "Bootcamp JAVASCRIPT Completo Do Zero ao Avançado 2025",
+      "salesQuantity": 960,
+      "timestamp": "8/23/2025, 12:30:54 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 0,
+        "inHours": 21
+      }
+    },
+    {
+      "id": 12,
+      "titleCourse": "Bootcamp JAVASCRIPT Completo Do Zero ao Avançado 2025",
+      "salesQuantity": 963,
+      "timestamp": "8/25/2025, 12:31:04 PM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 13,
+      "titleCourse": "Bootcamp JAVASCRIPT Completo Do Zero ao Avançado 2025",
+      "salesQuantity": 965,
+      "timestamp": "8/26/2025, 12:31:29 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 14,
+      "titleCourse": "Bootcamp JAVASCRIPT Completo Do Zero ao Avançado 2025",
+      "salesQuantity": 968,
+      "timestamp": "8/29/2025, 12:31:58 PM",
+      "salesAmount": {
+        "newSales": 3,
+        "inDays": 3,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 15,
+      "titleCourse": "Bootcamp JAVASCRIPT Completo Do Zero ao Avançado 2025",
+      "salesQuantity": 969,
+      "timestamp": "9/1/2025, 12:30:56 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 2,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 16,
+      "titleCourse": "Bootcamp JAVASCRIPT Completo Do Zero ao Avançado 2025",
+      "salesQuantity": 969,
+      "timestamp": "9/2/2025, 12:31:35 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 17,
+      "titleCourse": "Bootcamp JAVASCRIPT Completo Do Zero ao Avançado 2025",
+      "salesQuantity": 971,
+      "timestamp": "9/4/2025, 12:31:53 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 18,
+      "titleCourse": "Bootcamp JAVASCRIPT Completo Do Zero ao Avançado 2025",
+      "salesQuantity": 977,
+      "timestamp": "9/8/2025, 12:30:54 PM",
+      "salesAmount": {
+        "newSales": 6,
+        "inDays": 3,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 19,
+      "titleCourse": "Bootcamp JAVASCRIPT Completo Do Zero ao Avançado 2025",
+      "salesQuantity": 983,
+      "timestamp": "9/9/2025, 12:32:42 PM",
+      "salesAmount": {
+        "newSales": 6,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 20,
+      "titleCourse": "Bootcamp JAVASCRIPT Completo Do Zero ao Avançado 2025",
+      "salesQuantity": 985,
+      "timestamp": "9/11/2025, 12:31:28 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 1,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 21,
+      "titleCourse": "Bootcamp JAVASCRIPT Completo Do Zero ao Avançado 2025",
+      "salesQuantity": 985,
+      "timestamp": "9/12/2025, 12:31:56 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 22,
+      "titleCourse": "Bootcamp JAVASCRIPT Completo Do Zero ao Avançado 2025",
+      "salesQuantity": 986,
+      "timestamp": "9/13/2025, 12:32:04 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 23,
+      "titleCourse": "Bootcamp JAVASCRIPT Completo Do Zero ao Avançado 2025",
+      "salesQuantity": 988,
+      "timestamp": "9/15/2025, 12:31:58 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 1,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 24,
+      "titleCourse": "Bootcamp JAVASCRIPT Completo Do Zero ao Avançado 2025",
+      "salesQuantity": 993,
+      "timestamp": "9/17/2025, 12:32:04 PM",
+      "salesAmount": {
+        "newSales": 5,
+        "inDays": 2,
+        "inHours": 0
+      }
+    }
+  ]
+}

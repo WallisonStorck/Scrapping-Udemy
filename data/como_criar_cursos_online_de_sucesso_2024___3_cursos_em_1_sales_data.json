@@ -1,5 +1,5 @@
 {
-  "nextID": 13,
+  "nextID": 81,
   "data": [
     {
       "id": 1,
@@ -125,6 +125,743 @@
       "salesAmount": {
         "newSales": 2,
         "inDays": 5,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 13,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1221,
+      "timestamp": "7/16/2025, 12:30:20 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 14,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1223,
+      "timestamp": "7/17/2025, 12:30:20 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 15,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1223,
+      "timestamp": "7/18/2025, 12:30:20 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 16,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1223,
+      "timestamp": "7/21/2025, 12:30:20 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 3,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 17,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1223,
+      "timestamp": "7/22/2025, 12:30:20 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 18,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1223,
+      "timestamp": "7/24/2025, 12:30:20 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 19,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1223,
+      "timestamp": "7/25/2025, 12:30:20 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 20,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1223,
+      "timestamp": "7/26/2025, 12:30:19 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 21,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1223,
+      "timestamp": "7/27/2025, 12:30:19 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 22,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1223,
+      "timestamp": "7/28/2025, 12:30:20 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 23,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1223,
+      "timestamp": "7/29/2025, 12:30:12 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 24,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1223,
+      "timestamp": "7/30/2025, 12:30:20 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 25,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1223,
+      "timestamp": "7/31/2025, 12:30:13 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 26,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1223,
+      "timestamp": "8/1/2025, 12:30:21 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 27,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1223,
+      "timestamp": "8/4/2025, 12:30:24 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 3,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 28,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1224,
+      "timestamp": "8/5/2025, 12:30:20 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 29,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1225,
+      "timestamp": "8/6/2025, 12:30:21 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 30,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1226,
+      "timestamp": "8/7/2025, 12:30:20 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 31,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1226,
+      "timestamp": "8/8/2025, 12:30:19 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 32,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1226,
+      "timestamp": "8/11/2025, 12:30:20 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 3,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 33,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1227,
+      "timestamp": "8/12/2025, 12:30:19 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 34,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1228,
+      "timestamp": "8/13/2025, 12:30:19 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 35,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1228,
+      "timestamp": "8/14/2025, 12:30:13 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 36,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1230,
+      "timestamp": "8/15/2025, 12:30:20 PM",
+      "salesAmount": {
+        "newSales": 2,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 37,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1231,
+      "timestamp": "8/16/2025, 12:30:20 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 38,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1231,
+      "timestamp": "8/18/2025, 12:30:22 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 39,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1232,
+      "timestamp": "8/19/2025, 12:30:13 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 40,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1232,
+      "timestamp": "8/20/2025, 12:30:22 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 41,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1232,
+      "timestamp": "8/21/2025, 12:30:24 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 42,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1232,
+      "timestamp": "8/22/2025, 3:19:56 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 2
+      }
+    },
+    {
+      "id": 43,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1233,
+      "timestamp": "8/23/2025, 12:30:13 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 0,
+        "inHours": 21
+      }
+    },
+    {
+      "id": 44,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1233,
+      "timestamp": "8/25/2025, 12:30:15 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 45,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1233,
+      "timestamp": "8/26/2025, 12:30:15 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 46,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1233,
+      "timestamp": "8/27/2025, 12:30:14 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 47,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1233,
+      "timestamp": "8/28/2025, 12:30:23 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 48,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1233,
+      "timestamp": "8/29/2025, 12:30:14 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 49,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1233,
+      "timestamp": "9/1/2025, 12:30:14 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 3,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 50,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1233,
+      "timestamp": "9/2/2025, 12:30:22 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 51,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1233,
+      "timestamp": "9/3/2025, 12:30:26 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 52,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1233,
+      "timestamp": "9/4/2025, 12:30:13 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 53,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1233,
+      "timestamp": "9/5/2025, 12:30:30 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 54,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1233,
+      "timestamp": "9/6/2025, 12:30:14 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 55,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1233,
+      "timestamp": "9/8/2025, 12:30:12 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 56,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1234,
+      "timestamp": "9/10/2025, 12:30:23 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 57,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1234,
+      "timestamp": "9/11/2025, 12:30:13 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 58,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1234,
+      "timestamp": "9/12/2025, 12:30:13 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 59,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1234,
+      "timestamp": "9/13/2025, 12:30:21 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 60,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1235,
+      "timestamp": "9/15/2025, 12:30:14 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 61,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1236,
+      "timestamp": "9/16/2025, 12:30:15 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 62,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1237,
+      "timestamp": "9/17/2025, 12:30:22 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 63,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1237,
+      "timestamp": "9/18/2025, 12:30:24 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 64,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1237,
+      "timestamp": "9/19/2025, 12:30:21 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 65,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1238,
+      "timestamp": "9/22/2025, 12:30:13 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 2,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 66,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1238,
+      "timestamp": "9/23/2025, 12:30:20 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 67,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1238,
+      "timestamp": "9/24/2025, 12:30:14 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 68,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1238,
+      "timestamp": "9/25/2025, 12:30:20 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 69,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1238,
+      "timestamp": "9/26/2025, 12:30:19 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 70,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1238,
+      "timestamp": "9/27/2025, 12:30:20 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 71,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1238,
+      "timestamp": "9/29/2025, 12:30:24 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 2,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 72,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1238,
+      "timestamp": "9/30/2025, 12:30:15 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 73,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1238,
+      "timestamp": "10/1/2025, 12:30:21 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 74,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1238,
+      "timestamp": "10/2/2025, 12:30:21 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 75,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1238,
+      "timestamp": "10/3/2025, 12:30:20 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 76,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1239,
+      "timestamp": "10/6/2025, 12:30:21 PM",
+      "salesAmount": {
+        "newSales": 1,
+        "inDays": 3,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 77,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1239,
+      "timestamp": "10/7/2025, 12:30:20 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 0,
+        "inHours": 23
+      }
+    },
+    {
+      "id": 78,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1239,
+      "timestamp": "10/8/2025, 12:30:20 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
+        "inHours": 0
+      }
+    },
+    {
+      "id": 79,
+      "titleCourse": "Como Criar Cursos Online de Sucesso 2024 - 3 Cursos em 1",
+      "salesQuantity": 1239,
+      "timestamp": "10/9/2025, 12:30:22 PM",
+      "salesAmount": {
+        "newSales": 0,
+        "inDays": 1,
         "inHours": 0
       }
     }
